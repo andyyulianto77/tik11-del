@@ -1038,6 +1038,22 @@
         "locked": false,
         "status": ""
       }
+    },
+    {
+      "id": "item-b69bf61b-e05b-45d2-a4f7-b467af88a4ce",
+      "indent": 0,
+      "location": "pages/item-b69bf61b-e05b-45d2-a4f7-b467af88a4ce/index.html",
+      "slug": "page-1",
+      "order": 3,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1763882950,
+        "updated": 1763882950,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

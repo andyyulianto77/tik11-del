@@ -25,7 +25,7 @@
         "gaID": null
       },
       "created": 1763874871,
-      "updated": 1763883023,
+      "updated": 1763883070,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -536,7 +536,7 @@
       "description": "",
       "metadata": {
         "created": 1763874869,
-        "updated": 1763880600,
+        "updated": 1763883069,
         "images": {},
         "videos": {},
         "published": true,
@@ -667,7 +667,7 @@
       "description": "",
       "metadata": {
         "created": 1763874869,
-        "updated": 1763880601,
+        "updated": 1763883069,
         "images": {},
         "videos": {},
         "published": true,
@@ -709,7 +709,7 @@
       "description": "",
       "metadata": {
         "created": 1763874869,
-        "updated": 1763880601,
+        "updated": 1763883070,
         "images": {},
         "videos": {},
         "published": true,
@@ -764,7 +764,7 @@
       "description": "",
       "metadata": {
         "created": 1763874869,
-        "updated": 1763880601,
+        "updated": 1763883070,
         "images": {},
         "videos": {},
         "theme": {
@@ -812,7 +812,7 @@
       "indent": 0,
       "location": "pages/item-45efd8c7-dfb3-4367-a95e-540092fe9d35/index.html",
       "slug": "bab-berpikir-kritis-dan-dampak-sosial-informatika",
-      "order": 4,
+      "order": 1,
       "parent": null,
       "title": "Bab Berpikir Kritis dan Dampak Sosial Informatika",
       "description": "",
@@ -821,7 +821,7 @@
         "created": 1763874869,
         "images": {},
         "videos": {},
-        "updated": 1763880600,
+        "updated": 1763883069,
         "published": true,
         "pageType": "content",
         "hideInMenu": true,
@@ -861,7 +861,7 @@
       "description": "tes kuis eror lagi uhh\n\n\n\n\n  \n    Bagian materi 1 akan langsung terlihat saat halaman dibuka.\n  \n\n  \n    Bagian materi 2 muncul setelah tombol Pause diklik sekali.\n  \n\n  \n    Bagian materi 3 muncul s",
       "metadata": {
         "created": 1763874869,
-        "updated": 1763880599,
+        "updated": 1763883068,
         "images": {},
         "videos": {},
         "published": true,
@@ -889,7 +889,7 @@
       "description": "\n",
       "metadata": {
         "created": 1763880130,
-        "updated": 1763880600,
+        "updated": 1763883068,
         "images": {},
         "videos": {},
         "published": true,
@@ -908,7 +908,7 @@
     },
     {
       "id": "item-f746a353-0cbd-438d-a6f5-48f0a5eeaa63",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-f746a353-0cbd-438d-a6f5-48f0a5eeaa63/index.html",
       "slug": "selamat-datang/page-1",
       "order": 1,
@@ -917,7 +917,7 @@
       "description": "\n",
       "metadata": {
         "created": 1763880612,
-        "updated": 1763881389,
+        "updated": 1763883069,
         "images": {},
         "videos": {},
         "theme": {
@@ -930,7 +930,8 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
@@ -947,7 +948,7 @@
         "created": 1763878675,
         "images": {},
         "videos": {},
-        "updated": 1763880600,
+        "updated": 1763883069,
         "theme": {
           "element": "polaris-flex-sidebar",
           "path": "@haxtheweb/polaris-theme/lib/polaris-flex-sidebar.js",
@@ -974,7 +975,7 @@
       "description": "\nDeep thoughts..\nDeep thoughts..\nDeep thoughts..\nDeep thoughts..\n\n",
       "metadata": {
         "created": 1763878824,
-        "updated": 1763880600,
+        "updated": 1763883069,
         "images": {},
         "videos": {},
         "published": true,
@@ -996,13 +997,13 @@
       "indent": 0,
       "location": "pages/item-e0cb20de-81b1-4379-8e0e-33f51466cbc0/index.html",
       "slug": "page-copy",
-      "order": 4,
+      "order": 5,
       "parent": null,
       "title": "Page Copy",
       "description": "\n",
       "metadata": {
         "created": 1763878716,
-        "updated": 1763881504,
+        "updated": 1763883070,
         "images": {},
         "videos": {},
         "published": true,
@@ -1025,13 +1026,13 @@
       "indent": 0,
       "location": "pages/item-c364caed-b331-44da-b9bd-4270490629a9/index.html",
       "slug": "page",
-      "order": 2,
+      "order": 3,
       "parent": null,
       "title": "Page",
       "description": "\n",
       "metadata": {
         "created": 1763880020,
-        "updated": 1763883023,
+        "updated": 1763883069,
         "images": {},
         "videos": {},
         "published": true,
@@ -1053,15 +1054,18 @@
       "indent": 0,
       "location": "pages/item-b69bf61b-e05b-45d2-a4f7-b467af88a4ce/index.html",
       "slug": "page-1",
-      "order": 3,
+      "order": 4,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1763882950,
-        "updated": 1763882950,
+        "updated": 1763883070,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     }
   ]

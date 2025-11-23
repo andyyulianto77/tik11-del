@@ -1,0 +1,1043 @@
+{
+  "id": "c74c636b-d17f-479c-9f3b-f8b23be67d8f",
+  "title": "tik11",
+  "author": "",
+  "description": "haxcms import",
+  "license": "by-sa",
+  "metadata": {
+    "author": {
+      "image": "",
+      "name": null,
+      "email": null,
+      "socialLink": null
+    },
+    "site": {
+      "name": "tik11",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "id-ID",
+        "publishPagesOn": true,
+        "canonical": true,
+        "private": false,
+        "pathauto": true,
+        "sw": false,
+        "forceUpgrade": false,
+        "gaID": null
+      },
+      "created": 1763874871,
+      "updated": 1763881504,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      },
+      "version": "11.0.5",
+      "domain": null,
+      "tags": null,
+      "static": {}
+    },
+    "theme": {
+      "element": "custom-tik11-theme",
+      "path": "custom/build/custom.es6.js",
+      "name": "Custom Modul theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
+      "variables": {
+        "icon": "av:queue-music",
+        "hexCode": "#3f51b5",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "image": "",
+        "imageAlt": null,
+        "imageLink": null
+      },
+      "regions": {}
+    },
+    "node": {
+      "fields": {}
+    },
+    "build": {
+      "version": "11.0.5",
+      "structure": "import",
+      "type": "haxcms",
+      "items": [
+        {
+          "id": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
+          "indent": 1,
+          "location": "pages/item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e/index.html",
+          "slug": "kritis",
+          "order": 0,
+          "parent": "item-45efd8c7-dfb3-4367-a95e-540092fe9d35",
+          "title": "Berpikir Kritis dan Pengambilan Keputusan",
+          "description": " ",
+          "metadata": {
+            "created": 1763695481,
+            "updated": 1763869900,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "pageType": "lesson",
+            "hideInMenu": true,
+            "tags": "kritis",
+            "locked": false,
+            "readtime": 7,
+            "icon": "hax:lesson",
+            "theme": {
+              "element": "polaris-flex-theme",
+              "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+              "name": "Polaris - Flex",
+              "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+              "key": "polaris-flex-theme"
+            },
+            "status": "",
+            "accentColor": "pink",
+            "files": [
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\thinking.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/thinking.jpg",
+                "url": "files/thinking.jpg",
+                "type": "image/jpeg",
+                "name": "thinking.jpg",
+                "size": 48295
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\libur-selamanya.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/libur-selamanya.jpg",
+                "url": "files/libur-selamanya.jpg",
+                "type": "image/jpeg",
+                "name": "libur-selamanya.jpg",
+                "size": 16272
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\kriteria.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/kriteria.jpg",
+                "url": "files/kriteria.jpg",
+                "type": "image/jpeg",
+                "name": "kriteria.jpg",
+                "size": 15567
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\viral.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/viral.jpg",
+                "url": "files/viral.jpg",
+                "type": "image/jpeg",
+                "name": "viral.jpg",
+                "size": 15690
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\alternatif.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/alternatif.jpg",
+                "url": "files/alternatif.jpg",
+                "type": "image/jpeg",
+                "name": "alternatif.jpg",
+                "size": 29418
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\evaluasi.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/evaluasi.jpg",
+                "url": "files/evaluasi.jpg",
+                "type": "image/jpeg",
+                "name": "evaluasi.jpg",
+                "size": 32593
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\terbaik.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/terbaik.jpg",
+                "url": "files/terbaik.jpg",
+                "type": "image/jpeg",
+                "name": "terbaik.jpg",
+                "size": 26097
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\keputusan.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/keputusan.jpg",
+                "url": "files/keputusan.jpg",
+                "type": "image/jpeg",
+                "name": "keputusan.jpg",
+                "size": 23150
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\evaluasi-keputusan.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/evaluasi-keputusan.jpg",
+                "url": "files/evaluasi-keputusan.jpg",
+                "type": "image/jpeg",
+                "name": "evaluasi-keputusan.jpg",
+                "size": 25811
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\pengambilan-keputusan.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/pengambilan-keputusan.jpg",
+                "url": "files/pengambilan-keputusan.jpg",
+                "type": "image/jpeg",
+                "name": "pengambilan-keputusan.jpg",
+                "size": 31171
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\sekolah-pandemi.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/sekolah-pandemi.jpg",
+                "url": "files/sekolah-pandemi.jpg",
+                "type": "image/jpeg",
+                "name": "sekolah-pandemi.jpg",
+                "size": 96005
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\keputusan-digital2.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/keputusan-digital2.jpg",
+                "url": "files/keputusan-digital2.jpg",
+                "type": "image/jpeg",
+                "name": "keputusan-digital2.jpg",
+                "size": 26942
+              }
+            ],
+            "image": "files/sekolah-pandemi.jpg"
+          },
+          "contents": "\n<p>Revolusi Industri 4.0 telah memberikan <strong>dampak transformatif</strong> pada\n  bidang pendidikan, menjanjikan peningkatan <strong>akses, kecepatan, dan pemerataan</strong> informasi\n  yang signifikan melalui teknologi digital seperti kecerdasan buatan, <i>big data</i>,\n  dan komputasi awan. Platform pembelajaran daring dan sumber daya pendidikan terbuka\n  (<i>Open Educational Resources/OER</i>) memungkinkan materi berkualitas didistribusikan\n  secara <strong>luas dan merata</strong>, berpotensi besar untuk <strong>memberantas kebodohan</strong> dengan\n  menjangkau populasi yang sebelumnya terisolasi. Pembelajaran menjadi lebih <strong>interaktif</strong> dan\n  personal melalui simulasi, realitas virtual (<i>VR</i>), dan analitik data yang menyesuaikan\n  konten dengan kebutuhan individu peserta didik.&#160;</p>\n<p>Namun, perlu dipahami bahwa teknologi ibarat pisau bermata dua. Di satu sisi, kehadiran\n  teknologi internet sangat memudahkan distribusi dan akses informasi yang kita butuhkan,\n  berpotensi meningkatkan capaian seperti terlihat dari perbaikan peringkat Indonesia\n  di <strong>PISA 2022</strong> (peringkat 69 dari 80 negara dengan skor literasi membaca <strong>359</strong>,\n  naik dari 2018). Di sisi lain, kemudahan akses ini juga mengakibatkan beredarnya\n  berbagai macam berita bohong (hoaks) dan disinformasi. Oleh karena itu, sikap yang\n  tepat terhadap berbagai produk Teknologi Informasi dan Komunikasi (TIK) dan sistem\n  komputasi adalah dengan mengembangkan <strong>literasi digital</strong> yang kuat,\n  mengajarkan kemampuan <strong>berpikir kritis</strong> untuk menyaring informasi, dan\n  memanfaatkan teknologi sebagai <strong>alat bantu</strong> untuk personalisasi dan\n  peningkatan kualitas, bukan sekadar pengganti metode pembelajaran tradisional.</p>\n<simple-cta link=\"kritis#menuju-soal\" accent-color=\"purple\" icon=\"icons:chevron-right\" label=\"Langsung ke soal formatif\" style=\"color: pink;\" data-margin=\"center\" data-text-align=\"center\" remote-link-target=\"{}\" remote-link-url=\"kritis#menuju-soal\" edit-mode=\"\"></simple-cta>\n<a11y-collapse heading=\"Apersepsi\" accent-color=\"grey\" icon=\"icons:help-outline\" tooltip=\"expand\" icon-expanded=\"icons:check\" label=\"expand\" heading-button>\n    <p>Apa contoh teknologi Revolusi 4.0 dapat secara efektif menjembatani jurang kesenjangan\n      digital (digital divide) masyarakat?</p>\n  </a11y-collapse>\n<h3 id=\"header-aac9ecfe-eda4-e221-c9c4-a60f449c5af8\">Pandemi Covid-19</h3>\n<p>Dalam era digital ini, berita dan informasi tersedia dalam berbagai bentuk mulai\n    dari media cetak hingga digital yang disebarluaskan melalui berbagai cara. Beragamnya\n    latar belakang masyarakat, menyebabkan respons orang terhadap suatu informasi pun\n    beragam. Akibatnya, terkadang kita temukan peristiwa-peristiwa yang tidak diharapkan,\n    bahkan merugikan atau membahayakan nyawa. Sebagai contoh, cukup sering kita mendengar\n    atau membaca berita tentang orang yang tertipu pesan singkat yang dikirimkan melalui\n    ponsel</p>\n<p>Di masa pandemi Covid-19, hingga bulan April 2021 Kementerian Komunikasi dan Informatika\n    bahkan mencatat 1.733 hoaks terkait Covid-19 dan vaksin (Agustini, 2021). Beberapa\n    berita hoaks terkait vaksin dan covid bahkan berujung pada kehilangan nyawa karena\n    orang mempercayai berita yang tidak benar sehingga mengambil keputusan yang keliru\n    ketika terpapar (Kurnia, 2019). Kita dapat menemukan pula berita tentang para remaja\n    yang membahayakan nyawa dengan menghadang truk demi bisa menghasilkan konten yang\n    disukai orang di media sosial (detikcom, 2021).&#160;Kasus lain yang juga kita jumpai\n    adalah tentang pencurian data-data pribadi, yang terekam secara digital, untuk kejahatan\n    (Annur, 2021).</p>\n<h6 id=\"header-83752493-5f1e-78bd-f9a5-711dcbd9b26a\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\"><span> Apa manfaat atau kerugian yang kalian dapatkan dari kalian dengan mengecek terlebih\n  dahulu kebenaran informasi yang kalian terima sebelum meneruskannya ke orang lain?</span></h6>\n<learning-component accent-color=\"indigo\" type=\"objectives\" subtitle=\"Berpikir Kritis dan Pengambilan Keputusan\" title=\"Learning Objectives\" icon=\"courseicons:learning-objectives\">\n    <p>Di akhir pelajaran siswa akan belajar</p>\n    <ol>\n      <li>mengenal konsep berpikir kritis</li>\n      <li>belajar mengkritisi berbagai peristiwa</li>\n      <li>memahami pentingnya berpikir kritis</li>\n    </ol>\n\n    <a11y-collapse heading=\"Jawablah\" accent-color=\"grey\" icon=\"icons:help-outline\" tooltip=\"expand\" icon-expanded=\"icons:check\" label=\"expand\">\n      <p>Dari tujuan tersebut Manakah yang penting untuk dipelajari? Mengapa hal tersebut\n        penting untuk dibahas?</p>\n    </a11y-collapse>\n\n  </learning-component>\n<h3 id=\"header-ea0de0bd-7917-ce87-e55a-bae6648ebdf2\">Sekolah di Masa Pandemi</h3>\n<p>Di masa pandemi Covid-19, 🧑🏻&#8205;💻 Sinta melihat ponsel yang menampilkan pesan\n    viral \"<i>larangan sekolah tatap muka diperpanjang selamanya</i>\" dengan tanda tanya\n    besar di atas kepalanya.</p>\n<p>🔍 Sinta membuka tiga tab; berbeda di peramban: (1) Sumber viral, (2) Situs berita\n    resmi, (3) Akun media sosial Kemendikbud.</p>\n<media-image source=\"files/libur-selamanya.jpg\" citation=\"ilustrasi oleh AI\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"50\"></media-image>\n<stop-note title=\"Perhatikan bacaan berikut\" accent-color=\"grey\" icon=\"stopnoteicons:book-icon\" status=\"info\" message=\"Literasi digital adalah kemampuan individu untuk menemukan, mengevaluasi, dan mengkomunikasikan\n    informasi secara jelas dengan menulis atau menggunakan berbagai macam platform digital\n    lainnya (Wikipedia, 2021). Literasi digital dibutuhkan untuk hidup, belajar, dan\n    bekerja dalam masyarakat dimana komunikasi dan akses ke informasi melalui teknologi\n    digital seperti internet, media sosial, dan perangkat bergerak (mobile devices) meningkat\n    pesat (https://westernsydney.edu.au).\" id=\"menuju-soal\"><strong>“Literasi Digital”</strong> \n    <p slot=\"message\">Fakta menunjukkan bahwa Indonesia merupakan negara dengan jumlah pengguna internet\n      terbanyak ke-3 di Asia (Kusnandar, 2021). Di sisi lain, menurut survei Global World\n      Digital Competitiveness Index, literasi digital Indonesia berada di peringkat ke-56\n      dari 63 negara yang disurvei (IMD, 2021).</p>\n    <p slot=\"message\">Literasi digital adalah kemampuan individu untuk menemukan, mengevaluasi, dan mengkomunikasikan\n      informasi secara jelas dengan menulis atau menggunakan berbagai macam platform digital\n      lainnya (Wikipedia, 2021). Literasi digital dibutuhkan untuk hidup, belajar, dan\n      bekerja dalam masyarakat dimana komunikasi dan akses ke informasi melalui teknologi\n      digital seperti internet, media sosial, dan perangkat bergerak (mobile devices) meningkat\n      pesat (https://westernsydney.edu.au).</p>\n  </stop-note>\n<h6 id=\"header-457a4109-7fb8-7cab-881d-7e87b44a3f40\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\"> Melihat bahwa Indonesia peringkat ke-3 pengguna internet TERTINGGI, namun ke-56 literasi digital TERENDAH: Apa yang perlu kamu perbaiki dari kebiasaan digitalmu hari ini? Mengapa?\" </h6>\n<p></p>\n<h3 id=\"header-7c86ea16-1d8a-fc0e-ef07-c4e30d1099b5\">Konsep Berpikir Kritis</h3>\n<p>Kemampuan mengevaluasi informasi adalah salah satu kemampuan yang dibutuhkan dalam\n    literasi digital. Untuk bisa mengevaluasi informasi, tentu saja orang butuh kemampuan\n    berpikir yang kritis.</p>\n<p>Kemampuan berpikir adalah kemampuan yang dimiliki oleh semua manusia yang sehat.\n    Kemampuan itu membantu untuk bertahan hidup dan mengatasi berbagai persoalan yang\n    dihadapinya. Semakin tinggi kemampuan berpikir seseorang maka semakin berkualitas\n    pula keputusan-keputusan yang diambil, pekerjaan yang dilakukan, dan karya yang dihasilkan.</p>\n<true-false-question question=\"Berpikir kritis mengharuskan kita untuk menghilangkan semua emosi agar keputusan menjadi 100% rasional.\" max-attempts=\"0\" typeof=\"oer:Assessment\" resource=\"#13482f2d-d816-bc46-f51a-74861dbf62b5\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org \" quiz-name=\"default\" single-option>\n    <p slot=\"feedbackIncorrect\">Mustahil dan tidak perlu. Tugas kritis adalah mengidentifikasi emosi dan memastikan\n      ia tidak mendominasi Logika dan Akurasi data. Emosi dapat menjadi Konteks, tapi bukan\n      dasar keputusan.</p>\n    <p slot=\"feedbackCorrect\">Anda benar. Tugasnya adalah mengidentifikasi emosi dan memastikan ia tidak mendominasi\n      Logika dan Akurasi data.</p>\n    <p slot=\"content\"></p>\n    <p slot=\"hint\">bedakan emosi dan logika/data</p>\n    <p slot=\"evidence\"></p>\n    \n    \n    <input type=\"checkbox\" value=\"True\"><input type=\"checkbox\" value=\"False\" correct=\"correct\"></true-false-question>\n<p>Sesungguhnya apa yang dimaksud dengan berpikir kritis? Dalam berbagai literatur\n      dapat ditemukan banyak ahli yang membahas tentang berpikir kritis, misalnya Paul\n      &#38;amp; Elder (2006), Glasser (2017), Clarke (2019). Masing-masing mempunyai cara\n      pandang sendiri. Dalam buku ini, akan digunakan referensi yang ditulis oleh Paul\n      dan Elder (2006), yang mendefinisikan berpikir kritis (critical thinking) sebagai\n      seni menganalisis dan mengevaluasi pemikiran dengan maksud untuk memperbaikinya.\n      Dengan kata lain, saat orang menghadapi suatu situasi atau mendapatkan suatu informasi\n      baik lisan maupun tertulis, orang yang berpikir kritis akan mengambil sudut pandang\n      tertentu kemudian menganalisis situasi atau informasi tersebut untuk mengambil kesimpulan,\n      mengambil keputusan, atau merumuskan solusi yang tepat.</p>\n<h6 id=\"header-457a4109-7fb8-7cab-881d-7e87b44a3f40\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\"> \"Pilih salah satu dari ini: STOP atau GO. Dalam situasi menerima berita yang memicu emosi, manakah yang merepresentasikan langkah awal berpikir kritis? Berikan satu alasan logis, bukan emosional, mengapa kamu memilih itu.\" </h6>\n<p>Perlu diingat bahwa berpikir kritis tidak sama dengan &#8220;asal mengkritik tanpa\n      data dan argumentasi jelas&#8221; atau berpikir negatif atas sesuatu yang dibahas\n      (<a href=\"westernsydney.edu.au/studysmart\" target=\"_blank\">westernsydney.edu.au/studysmart</a>).\n      Sebagai contoh, ketika kalian membaca suatu artikel, kalian boleh saja setuju atau\n      tidak setuju pada apa yang dikatakan penulis.<strong> Jika kalian setuju</strong>,\n      kalian bisa tetap bersikap kritis pada isi tulisannya dengan cara menyampaikan <strong>alasan </strong>mengapa\n      kalian berpikir bahwa penulis telah mengungkapkan hal yang benar dengan dasar bukti\n      dan argumentasi yang penulis paparkan. <strong>Jika kalian tidak setuju</strong>,\n      kalian bersikap kritis dengan mencoba memahami sudut pandang penulis serta bagaimana\n      penulis bisa mengambil kesimpulan yang dimaksud, kemudian sampaikan alasan ketidaksetujuan\n      kalian secara logis dan tetap santun. Dengan cara ini kalian akan tetap bisa menghargai\n      orang yang berbeda pendapat dengan kalian. Sebuah botol yang isinya hanya separuh\n      dapat disimpulkan sebagai separuh kosong, atau separuh isi.</p>\n<h6 id=\"header-457a4109-7fb8-7cab-881d-7e87b44a3f40\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\">&#160;\"Jika Literasi Digital adalah proses menerima informasi, maka Berpikir Kritis adalah proses melakukan apa terhadap informasi itu? Sebutkan satu kata kunci aksi (kata kerja) yang menjadi jembatan antara keduanya. Mengapa kata kunci itu penting?\" </h6>\n<h3 id=\"header-ca95dd3c-46a5-b241-a925-9d5246731b2a\">Berpikir Kritis dan Pengambilan Keputusan</h3>\n<p>Semakin penting keputusan yang perlu diambil, semakin penting pula keterampilan\n      berpikir kritis diterapkan. Apa yang harus dilakukan saat orang harus mengambil keputusan?</p>\n<p>Apa yang harus dilakukan saat orang harus mengambil keputusan? Gambar berikut ini\n      merupakan langkah umum orang saat mengambil keputusan, mulai dari identifikasi masalah\n      hingga evaluasi keputusan dan akibatnya. Tidak semua keputusan harus secara kaku\n      mengikuti langkah umum ini karena bisa saja menyesuaikan kasus yang dihadapi.</p>\n<media-image source=\"files/pengambilan-keputusan.jpg\" citation=\"Buku Informatika Kemdikbud kelas 11 halaman 109\" accent-color=\"grey\" size=\"wide\" offset=\"none\" caption=\"Langkah Mengambil Keputusan\" modal-title=\"Langkah Mengambil Keputusan\" _has-caption></media-image>\n<h4 id=\"header-875ac498-0af9-3e4d-b77a-4ed13cafc410\"> 1. Identifikasi Masalah</h4>\n<p>Rumuskan dengan jelas masalah yang harus diambil keputusannya, apa tujuannya, serta\n        batasan-batasan yang ada.\n        <br>\n      </p>\n<media-image source=\"files/libur-selamanya.jpg\" alt=\"libur-selamanya.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"narrow\" data-width=\"25\" caption=\"Apakah benar informasi&quot;larangan sekolah tatap muka diperpanjang selamanya&quot;.\" modal-title=\"Apakah benar informasi&quot;larangan sekolah tatap muka diperpanjang selamanya&quot;.\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<h4 id=\"header-10ae756d-583e-e9d9-b1bb-1cfeed225e08\">2. Identifikasi Kriteria</h4>\n<p>Tetapkan kriteria yang akan dipergunakan untuk mengambil keputusan. Jika diperlukan,\n        dapat ditetapkan sub kriteria untuk merinci setiap kriteria.</p>\n<media-image accent-color=\"grey\" source=\"files/kriteria.jpg\" alt=\"libur-selamanya.jpg\" size=\"wide\" offset=\"narrow\" data-width=\"25\" caption=\"&quot;Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.&quot;\" modal-title=\"&quot;Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.&quot;\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<p>📊 Sinta membandingkan pesan viral dengan pernyataan resmi. Ia mengecek tanggal\n        dan penulis sumber.</p>\n<h4 id=\"header-9609a3b1-fe36-9403-f0ca-e4219ed184c8\">3. Tetapkan Bobot Kriteria</h4>\n<p>Tiap kriteria maupun sub kriteria bisa memiliki tingkat kepentingan yang berbeda\n        sehingga diberikan bobot. Semakin penting kriteria/sub kriteria tersebut maka dapat\n        diberikan bobot yang lebih besar daripada kriteria/sub kriteria lainnya.</p>\n<p></p>\n<media-image source=\"files/kriteria.jpg\" alt=\"kriteria.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"&quot;Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.&quot;\" modal-title=\"&quot;Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.&quot;\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<p><i>Sinta membandingkan pesan viral dengan pernyataan resmi. Ia mengecek tanggal dan penulis sumber.</i> \n      </p>\n<flash-card speak=\"speak\" img-source=\"files/keputusan-digital2.jpg\" listen=\"listen\" accent-color=\"amber\" img-keyword=\"kritis, keputusan\" data-margin=\"center\"><span slot=\"front\">Keputusan Digital: Saat kamu sering impulsif atau menyesal setelah mengambil keputusan (misal: menyebar berita/membeli barang), Apa yang kamu abaikan?</span>\n\n        <span slot=\"back\">situasi kondisi</span>\n      </flash-card>\n<h4 id=\"header-a4e49151-4eec-11da-93e8-617ee68e74bf\">4. Identifikasi Alternatif</h4>\n<p>Pada tahap ini diidentifikasi beberapa alternatif yang mungkin dipilih sebagai alternatif\n        solusi, konsekuensi dari setiap alternatif, serta informasi lain terkait alternatif</p>\n<media-image source=\"files/alternatif.jpg\" alt=\"alternatif.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"🤔 Sinta mencoret-coret di buku. Ia menuliskan: Asumsi: Semua berita pemerintah bohong. Lalu ia menggaris bawahi: Fakta: Pernyataan ini didukung bukti otentik.\" modal-title=\"🤔 Sinta mencoret-coret di buku. Ia menuliskan: Asumsi: Semua berita pemerintah bohong. Lalu ia menggaris bawahi: Fakta: Pernyataan ini didukung bukti otentik.\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<p></p>\n<h4 id=\"header-44999145-2f96-3dc8-a805-7574221ec6ce\">5. Evaluasi Alternatif</h4>\n<p>Evaluasilah setiap alternatif berdasar kriteria dan bobot yang ditetapkan. Gunakan\n          informasi yang didapatkan untuk mengevaluasi.</p>\n<media-image source=\"files/evaluasi.jpg\" alt=\"evaluasi.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"&quot;Hal yang paling signifikan di sini adalah, isu sepenting ini pasti akan diumumkan melalui kanal resmi dan terverifikasi.&quot;\" modal-title=\"&quot;Hal yang paling signifikan di sini adalah, isu sepenting ini pasti akan diumumkan melalui kanal resmi dan terverifikasi.&quot;\" _has-caption></media-image>\n<p></p>\n<h4 id=\"header-54be906e-0969-f474-4e1a-698058102696\">6. Pilih Alternatif Terbaik</h4>\n<p>Pada tahap ini dapat dipilih berbagai macam metode formal untuk mendukung pengambilan\n          keputusan seperti metode <i>Simple Multi Attribute Rating Techniques</i><strong> (SMART)</strong>, <i>Analytic Hierarchy Process</i> (AHP), <i>Cost-Benefit Analysis</i>,\n          dsb (Baker, et.al., 2001). Dapat juga digunakan metode pengambilan keputusan yang\n          dibuat sendiri berdasar kesepakatan pihak-pihak yang berkepentingan.</p>\n<media-image source=\"files/terbaik.jpg\" alt=\"terbaik.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"&quot;Setelah menimbang pro-kontra sumber, aku putuskan: Berita viral itu Hoaks\" modal-title=\"&quot;Setelah menimbang pro-kontra sumber, aku putuskan: Berita viral itu Hoaks\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<p></p>\n<h4 id=\"header-5c90b825-7f57-e05d-db59-a742686c39f3\">7. Implementasi Keputusan</h4>\n<p>Pilih salah satu alternatif yang terbaik sesuai kriteria yang ditentukan, dari antara\n            alternatif yang sudah dievaluasi pada tahap sebelumnya.</p>\n<media-image source=\"files/keputusan.jpg\" alt=\"keputusan.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"&quot;Tolong jangan sebar! Aku sudah cek, ini hoaks. Ini link berita resminya...&quot;\" modal-title=\"&quot;Tolong jangan sebar! Aku sudah cek, ini hoaks. Ini link berita resminya...&quot;\" _has-caption></media-image>\n<p></p>\n<p>Dilakukan oleh 💬 Sinta mengetik pesan di grup, menyertakan link sumber resmi, dan\n            menjelaskan mengapa berita itu palsu.</p>\n<h4 id=\"header-e946076f-610e-b771-08f0-b064acb197aa\">8. Evaluasi Keputusan </h4>\n<p>Evaluasi apakah keputusan tersebut berhasil mengatasi persoalan yang dihadapi. Jika\n            keputusan belum berhasil mengatasi persoalan maka mungkin perlu mengulangi langkahlangkah\n            sebelumnya sambil berpikir apa yang perlu diperbaiki untuk membuat keputusan baru.</p>\n<media-image source=\"files/evaluasi-keputusan.jpg\" alt=\"evaluasi-keputusan.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"&quot;Apakah prosesku sudah adil dan efektif? Ya. Lain kali aku harus lebih cepat mencari sumber.&quot;\" modal-title=\"&quot;Apakah prosesku sudah adil dan efektif? Ya. Lain kali aku harus lebih cepat mencari sumber.&quot;\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<h6 id=\"header-1fffaa60-1db0-ad2b-2ac3-2bac55117e6c\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\"><span>  \"Ketika sebuah berita viral muncul di linimasa media sosial Anda, keputusan terpenting apa yang harus Anda ambil sebelum melakukan tindakan lain (seperti menyebarkan, mengomentari, atau mempercayai)? Manakah yang paling penting dari proses mengambil keputusan? Kenapa?</span></h6>\n<p></p>\n<p>Bayangkan kamu punya pilihan: A. Jajan makanan enak/instan (tapi tidak sehat dan\n              menghabiskan uang hari itu), atau B. Menabung uangmu untuk kebutuhan yang lebih sehat/penting\n              di masa depan.</p>\n<h6 id=\"header-ecdfa461-153f-2ef9-08a2-bbdfd09bcf95\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\"><span>Jika kamu memilih A, apa langkah berpikir (misalnya: kriteria, alternatif, evaluasi) yang paling kamu ingat dari 8 di atas? Sebutkan dua, dan berikan alasannya. Begitu juga sebaliknya.</span></h6>\n<stop-note title=\"Refleksi\" accent-color=\"grey\" icon=\"stopnoteicons:confirm-icon\" status=\"success\" message=\"&#60;spanmessage\"><strong>Proses berpikir Kritis telah berhasil hari ini. Pelajaran           apa yang bisa diambil?</strong> \n              <p></p>\n            </stop-note>\n<h3 id=\"header-603691e8-dd1e-e506-2760-0d0a7d8c5486\">Kuis Asesmen Formatif</h3>\n<p>Jawablah soal esai berikut ini:</p>\n<p></p>\n<kuis-confeti id=\"confetti\" duration=\"1500\" particle-count=\"180\"></kuis-confeti>\n<confetti-quiz web-app-url=\"https://script.google.com/macros/s/AKfycbysR94NFSE5RDwwjvcjdwkohUe3GtZn6t8Hja_geeJdCIriZ_LrHadY0TzVxY9L3R0q/exec\" user-name=\"John Doe\" user-phone=\"081234567890\" user-address=\"Jakarta\" user-kelas=\"XI-XII\" user-absen=\"0\" questions=\"[\n    {&quot;question&quot;:&quot;Siapa presiden pertama Indonesia?&quot;,&quot;answer&quot;:&quot;soekarno&quot;},\n    {&quot;question&quot;:&quot;Ibukota Indonesia?&quot;,&quot;answer&quot;:&quot;jakarta&quot;}\n  ]\">\n</confetti-quiz>\n"
+        },
+        {
+          "id": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
+          "indent": 1,
+          "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",
+          "slug": "welcome/penerapan",
+          "order": 1,
+          "parent": "item-45efd8c7-dfb3-4367-a95e-540092fe9d35",
+          "title": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
+          "description": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian\nIndonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayo",
+          "metadata": {
+            "created": 1763159343,
+            "updated": 1763869900,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "locked": false,
+            "status": "",
+            "pageType": "content",
+            "hideInMenu": true,
+            "readtime": 2,
+            "icon": "lrn:page",
+            "tags": "kritis",
+            "files": [
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\tani.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/tani.jpg",
+                "url": "files/tani.jpg",
+                "type": "image/jpeg",
+                "name": "tani.jpg",
+                "size": 146355
+              }
+            ],
+            "theme": {
+              "element": "polaris-flex-theme",
+              "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+              "name": "Polaris - Flex",
+              "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+              "key": "polaris-flex-theme"
+            },
+            "image": "files/tani.jpg"
+          },
+          "contents": "\n<p>Indonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayoritas (29,76%) bekerja di sektor pertanian. Sebagai negara dengan jumlah penduduk terbesar ke-4 di dunia, bidang pertanian ini sangat penting untuk menjamin ketahanan pangan agar semua penduduknya mendapatkan kecukupan pangan. Bagaimana bidang informatika berperan dalam dunia pertanian? Kehadiran revolusi industri 4.0 yang mengutamakan efisiensi apakah juga menyentuh bidang pertanian? Bagaimana bentuknya? Apakah pekerja di sektor pertanian mendapatkan manfaat atau justru sebaliknya? Melalui keterampilan berpikir kritis yang telah dikenalkan dalam pertemuan sebelumnya, kalian akan belajar untuk mengkaji secara kritis penerapan informatika dalam bidang pertanian ini.</p>\n<p>Beberapa contoh pertanyan secara khusus dikaitkan dengan topik Dampak Sosial Informatika yang menjadi pokok bahasan dalam bab ini. Acuan&#160;5W + 1H&#160;</p>\n<h2 id=\"header-6db52c74-5200-680e-44aa-c2445f994d31\">Tuliskan pertanyaan dengan berpikir kritis materi elemen berpikir sebanyak 10 buah.</h2>\n<p>Contoh 10 Pertanyaan Berpikir Kritis (Elemen Berpikir)</p>\n<p>Berikut adalah pertanyaan yang disusun berdasarkan elemen berpikir kritis untuk mengkaji penerapan informatika dalam pertanian:</p>\n<ol><li><strong>Tujuan (Purpose):</strong> Apa tujuan utama pengembang aplikasi pertanian menciptakan teknologi ini? Apakah murni untuk mensejahterakan petani atau ada tujuan komersial terselubung dari perusahaan teknologi?</li>\n\n\n\n\n<li><strong>Pertanyaan Utama (Question at Issue):</strong> Masalah mendasar apa di sektor pertanian Indonesia yang sebenarnya <i>paling mendesak</i> untuk diselesaikan oleh teknologi informatika saat ini?</li>\n\n\n\n\n<li><strong>Informasi (Information):</strong> Data apa yang digunakan untuk menyimpulkan bahwa petani kecil benar-benar diuntungkan? Apakah data tersebut mewakili seluruh demografi petani atau hanya mereka yang melek teknologi?</li>\n\n\n\n\n<li><strong>Konsep (Concepts):</strong> Bagaimana kita mendefinisikan \"efisiensi\" dalam konteks pertanian tradisional? Apakah efisiensi mesin selalu sejalan dengan kearifan lokal pertanian Indonesia?</li>\n\n\n\n\n<li><p></p><p><strong>Asumsi (Assumptions):</strong> Apa asumsi yang kita gunakan ketika meyakini bahwa semua petani memiliki akses dan kemampuan menggunakan <i>smartphone</i> untuk bertani?</p>\n\n\n\n</li>\n\n\n\n<li><strong>Interpretasi &amp; Kesimpulan (Interpretation):</strong> Jika data menunjukkan peningkatan penggunaan aplikasi, apakah itu serta-merta menyimpulkan bahwa kesejahteraan petani meningkat, atau hanya menunjukkan peningkatan penjualan <i>gadget</i>?</li>\n\n\n\n\n<li><strong>Implikasi (Implications):</strong> Jika peran perantara (tengkulak) digantikan oleh aplikasi, apa konsekuensi sosial dan ekonomi bagi kelompok masyarakat yang selama ini bekerja sebagai perantara tersebut?</li>\n\n\n\n\n<li><strong>Sudut Pandang (Point of View):</strong> Bagaimana pandangan petani gurem (lahan sempit) terhadap teknologi ini dibandingkan dengan pandangan perusahaan agritech besar? Apakah teknologi ini adil bagi keduanya?</li>\n\n\n\n\n<li><p></p><p><strong>Konsekuensi (Consequences):</strong> Apa dampak jangka panjang terhadap lingkungan jika efisiensi teknologi mendorong eksploitasi lahan secara berlebihan demi mengejar target data produksi?</p>\n\n\n\n</li>\n\n\n\n<li>Konteks (Context): Sejauh mana budaya \"gotong royong\" di pertanian Indonesia akan berubah atau tergerus dengan masuknya sistem digital yang cenderung individualistik?<p></p></li>\n\n\n\n</ol>\n"
+        },
+        {
+          "id": "item-9df2478a-800b-44fd-94b2-ca8018ecc084",
+          "indent": 0,
+          "location": "pages/item-9df2478a-800b-44fd-94b2-ca8018ecc084/index.html",
+          "slug": "home",
+          "order": 5,
+          "parent": null,
+          "title": "Selamat Datang di Media Belajar Berpikir",
+          "description": "tes kosong\n\n",
+          "metadata": {
+            "created": 1763418769,
+            "updated": 1763869900,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": true,
+            "locked": false,
+            "readtime": 1,
+            "theme": {
+              "element": "haxcms-blank-theme",
+              "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+              "name": "Blank theme",
+              "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+              "key": "haxcms-blank-theme"
+            },
+            "accentColor": "pink",
+            "files": [
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+                "url": "files/syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+                "type": "image/jpeg",
+                "name": "syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+                "size": 1896691
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+                "url": "files/syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+                "type": "image/jpeg",
+                "name": "syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+                "size": 1781365
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\bantalmp4.mp4",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/bantalmp4.mp4",
+                "url": "files/bantalmp4.mp4",
+                "type": "video/mp4",
+                "name": "bantalmp4.mp4",
+                "size": 1627736
+              }
+            ],
+            "status": ""
+          },
+          "contents": "\n<page-section preset=\"custom\" filter bg=\"var(--ddd-theme-default-slateMaxLight)\" full fold scroller accent-color=\"blue\" buttons=\"\n    &#60;br&#62;\n  \" scroller-label=\"Scroll to reveal content\" image=\"files/syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg\">\n   <h2 id=\"header-912b5ca1-8d2d-3045-db44-2d9920238bdc\" style=\"color: green;\">Sharp looking section</h2>\n\n  <hr>\n  <p data-primary=\"11\" data-font-weight=\"bold\" data-font-family=\"secondary\">Kelihatan mudah dengan belajar bersama.</p>\n  <simple-cta hotline filled=\"\" outlined=\"\" slot=\"buttons\" accent-color=\"grey\" remote-link-target=\"{}\" icon=\"communication:call-missed-outgoing\" link=\"/evalusi/selamat\" label=\"Buka\" remote-link-url=\"/evalusi/selamat\">\n    <br>\n  </simple-cta>\n\n\n\n\n</page-section>\n<p></p>\n<accent-card accent-color=\"red\" accent-heading image-src=\"https://images-assets.nasa.gov/image/0700435/0700435~medium.jpg\" ready heading=\"Accent Card\" subheading=\"A card with optional accent stylings.\" content=\"\n    &#60;p data-hax-layout=&quot;true&quot; data-hax-grid=&quot;true&quot; data-hax-ray=&quot;Paragraph&quot;=&quot;true&quot;&#62;This card is highly customizable to contain any content you'd like&#60;/p&#62;\n  \" horizontal>\n   <h3 slot=\"heading\">Accent Card</h3>\n\n   <h5 slot=\"subheading\">A card with optional accent stylings.</h5>\n\n  <div slot=\"content\">\n    <p>This card is highly customizable to contain any content you'd like</p>\n  </div>\n\n\n\n\n</accent-card>\n<rpg-character seed=\"haxtheweb\" hat=\"construction\" accent-color=\"orange\" height=\"142\" width=\"113\" accessories=\"9\" base=\"0\" face=\"1\" face-item=\"8\" hair=\"2\" pants=\"2\" shirt=\"0\" skin=\"8\" hat-color=\"0\" leg=\"L\" speed=\"500\" reduce-motion></rpg-character>\n<rpg-character accent-color=\"orange\" accessories=\"9\" height=\"142\" width=\"113\" base=\"0\" face=\"1\" face-item=\"8\" hair=\"2\" pants=\"2\" shirt=\"0\" skin=\"8\" hat-color=\"0\" hat=\"education\" leg=\"L\" seed=\"haxtheweb\" speed=\"100\" reduce-motion fire></rpg-character>\n<play-list loop aspect-ratio=\"16:9\" slide=\"1\" orientation=\"horizontal\" navigation pagination>\n  <media-image source=\"https://images.unsplash.com/photo-1520110120835-c96534a4c984\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n\n\n\n\n  <media-image source=\"https://images.unsplash.com/photo-1525338078858-d762b5e32f2c\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n\n\n\n\n  <media-image source=\"https://images.unsplash.com/photo-1550745165-9bc0b252726f\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n\n\n\n\n</play-list>\n<grid-plate disable-responsive layout=\"2-1\">\n   <h2 data-design-treatment=\"vert\" data-primary=\"15\" slot=\"col-1\">Scanning Process / Software</h2>\n\n  <p slot=\"col-1\">The following stages of the process involves aligning the various scans to create\n    a coherent, detailed 3D model using Artec Studio 17 software. The point cloud is\n    converted into a mesh, which is a solid 3D model, and the texture data captured by\n    the scanner is mapped back onto the mesh to add color, markings, and other details.\n    The final 3D model can be exported into other software platforms, such as Blender\n    and Instant Mesh, both of which are open-source.</p>\n  <p slot=\"col-1\">To optimize the model for web use, it must be reduced significantly in size. To\n    achieve this, the polygon count is reduced using Instant Mesh, and the resulting\n    low-polygon model is unwrapped, and the texture and additional details are added\n    through a process called “baking” onto the model using normal mapping. This is a\n    commonly used technique in film and video game production to reduce file sizes, processing\n    power, and other resources required.</p>\n  <media-image citation=\"3D scanner and software shown scanning an ODL coffee mug.\" accent-color=\"grey\" size=\"wide\" offset=\"none\" slot=\"col-2\" source=\"https://bones.courses.science.psu.edu/assets/images/scanning-page-images/scanner-odl.jpg\" card box></media-image>\n\n\n\n\n  <a11y-gif-player alt=\"It's Always Sunny in Philadelphia Pepe Silvia Meme with GIFs\" src=\"https://i.pinimg.com/originals/64/5b/5b/645b5ba2e24c4003155c87cd0ac5e36f.gif\" longdesc=\"Pepe Silvia scene from It's Always Sunny in Philadelphia. The GIF's don't stop.\" slot=\"col-2\" resource=\"#6c3838a5-fbf8-66f2-5991-136f3d7b0774\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org \" src-without-animation=\"http://localhost:3000/api/services/media/image/manipulate?quality=50&amp;src=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExYzFzOWJoaHg1YTR6cXY5YzllZXU0bnZ2b2dyY2RsOHVjZHN0MDlsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2F1GNi6gbKE25TG%2Fgiphy.gif\"></a11y-gif-player>\n\n\n\n<a11y-gif-player alt=\"It's Always Sunny in Philadelphia Pepe Silvia Meme with GIFs\" longdesc=\"Pepe Silvia scene from It's Always Sunny in Philadelphia. The GIF's don't stop.\" src=\"https://i.pinimg.com/originals/64/5b/5b/645b5ba2e24c4003155c87cd0ac5e36f.gif\" src-without-animation=\"http://localhost:3000/api/services/media/image/manipulate?quality=50&amp;src=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExYzFzOWJoaHg1YTR6cXY5YzllZXU0bnZ2b2dyY2RsOHVjZHN0MDlsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2F1GNi6gbKE25TG%2Fgiphy.gif\" slot=\"col-2\" resource=\"#6c3838a5-fbf8-66f2-5991-136f3d7b0774\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org \"></a11y-gif-player>\n\n\n\n\n  <ddd-card src=\"files/syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg\" title=\"Title\" link=\"https://hax.cloud\" slot=\"col-2\" rel=\"noopener nofollow noreferrer\" t=\"{&quot;explore&quot;:&quot;Explore&quot;}\">\n    <p>The card content</p>\n  </ddd-card>\n\n\n\n\n</grid-plate>\n<grid-plate item-margin=\"16\" item-padding=\"16\" layout=\"1-1\"><p slot=\"col-1\">Column one content to replace</p><p slot=\"col-2\">Column two content to replace</p></grid-plate>\n"
+        },
+        {
+          "id": "item-16c4b08b-6f6f-4be0-8a26-144cb340df98",
+          "indent": 0,
+          "location": "pages/item-16c4b08b-6f6f-4be0-8a26-144cb340df98/index.html",
+          "slug": "portfolio",
+          "order": 6,
+          "parent": null,
+          "title": "Welcome Copy",
+          "description": "\n   Sharp looking section\n\n  \n  Kelihatan mudah dengan belajar bersama.\n  \n    \n  \n\n\n\n\n\n\n   Accent Card\n\n   A card with optional accent stylings.\n\n  \n    This card is highly customizable to contain a",
+          "metadata": {
+            "created": 1763588174,
+            "updated": 1763869900,
+            "images": {},
+            "videos": {},
+            "theme": {
+              "element": "haxcms-blank-theme",
+              "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+              "name": "Blank theme",
+              "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+              "key": "haxcms-blank-theme"
+            },
+            "published": true,
+            "hideInMenu": true,
+            "locked": false,
+            "readtime": 2,
+            "files": [
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\coding.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/coding.jpg",
+                "url": "files/coding.jpg",
+                "type": "image/jpeg",
+                "name": "coding.jpg",
+                "size": 3448244
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\belajar.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/belajar.jpg",
+                "url": "files/belajar.jpg",
+                "type": "image/jpeg",
+                "name": "belajar.jpg",
+                "size": 1187785
+              },
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\halo-dunia.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/halo-dunia.jpg",
+                "url": "files/halo-dunia.jpg",
+                "type": "image/jpeg",
+                "name": "halo-dunia.jpg",
+                "size": 4199499
+              }
+            ],
+            "status": ""
+          },
+          "contents": "\n<page-section preset=\"custom\" filter bg=\"var(--ddd-theme-default-slateMaxLight)\" full fold scroller accent-color=\"blue\" buttons=\"\n    &#60;br&#62;\n  \" scroller-label=\"Scroll to reveal content\" image=\"files/syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg\">\n   <h2 id=\"header-912b5ca1-8d2d-3045-db44-2d9920238bdc\" style=\"color: green;\">Sharp looking section</h2>\n\n  <hr>\n  <p data-primary=\"11\" data-font-weight=\"bold\" data-font-family=\"secondary\">Kelihatan mudah dengan belajar bersama.</p>\n  <simple-cta hotline filled=\"\" outlined=\"\" slot=\"buttons\" accent-color=\"grey\" remote-link-target=\"{}\" icon=\"communication:call-missed-outgoing\" link=\"/halo\" label=\"Buka\" remote-link-url=\"/halo\">\n    <br>\n  </simple-cta>\n\n\n\n\n\n\n\n\n\n\n</page-section>\n<page-section accent-color=\"blue\" scroller-label=\"Scroll to reveal content\" bg=\"pink\" buttons=\"\n    &#60;br&#62;\n  \" image=\"files/coding.jpg\">\n     <h2 id=\"header-912b5ca1-8d2d-3045-db44-2d9920238bdc\" style=\"color: green;\">Sharp looking section</h2>\n\n\n    <hr>\n\n    <p data-primary=\"11\" data-font-weight=\"bold\" data-font-family=\"secondary\">Kelihatan mudah dengan belajar bersama.</p>\n\n    <simple-cta hotline filled=\"\" outlined=\"\" slot=\"buttons\" accent-color=\"grey\" remote-link-target=\"{}\" icon=\"communication:call-missed-outgoing\" link=\"/halo\" label=\"Buka\" remote-link-url=\"/halo\">\n    <br>\n  </simple-cta>\n\n\n\n\n\n\n\n\n\n\n\n\n</page-section>\n<page-section accent-color=\"blue\" scroller-label=\"Scroll to reveal content\" bg=\"var(--ddd-theme-default-slateMaxLight)\" buttons=\"\n    &#60;br&#62;\n  \" preset=\"custom\" image=\"files/halo-dunia.jpg\" filter>\n         <h2 id=\"header-912b5ca1-8d2d-3045-db44-2d9920238bdc\" style=\"color: green;\">Sharp looking section</h2>\n\n\n\n\n        <grid-plate item-margin=\"0\" item-padding=\"0\" layout=\"1-2-1\" disable-responsive><p slot=\"col-1\">Column one content to replace</p><p slot=\"col-2\">Column two content to replace</p><img src=\"files/belajar.jpg\" loading=\"lazy\" slot=\"col-3\"></grid-plate>\n\n\n\n\n\n<grid-plate item-margin=\"16\" item-padding=\"16\" slot=\"col-2\" layout=\"1-1\"><p slot=\"col-1\">Column one content to replace</p><p slot=\"col-2\">Column two content to replace</p></grid-plate>\n\n\n\n\n\n<grid-plate item-margin=\"16\" item-padding=\"16\" slot=\"col-2\" layout=\"1-1\"><p slot=\"col-1\">Column one content to replace</p><p slot=\"col-2\">Column two content to replace</p></grid-plate>\n\n\n\n\n\n<grid-plate item-margin=\"0\" item-padding=\"0\" layout=\"1-1-1\" class=\"blinkfocus\" data-width=\"50\" disable-responsive><p slot=\"col-2\">Column two content to replace</p><p slot=\"col-3\">Column two content to replace</p><img src=\"files/belajar.jpg\" loading=\"lazy\" slot=\"col-3\"></grid-plate>\n\n\n\n\n\n\n\n<hr>\n\n\n\n        <p data-primary=\"11\" data-font-weight=\"bold\" data-font-family=\"secondary\">Kelihatan mudah dengan belajar bersama.</p>\n\n\n\n        \n\n\n\n\n\n\n\n\n\n</page-section>\n<page-section accent-color=\"blue\" scroller-label=\"Scroll to reveal content\" bg=\"light-blue\" preset=\"preset\" buttons=\"\n    &#60;br&#62;\n  \">\n           <h2 id=\"header-912b5ca1-8d2d-3045-db44-2d9920238bdc\" style=\"color: green;\">Sharp looking section</h2>\n\n\n\n\n\n          <hr>\n\n\n\n\n          <p data-primary=\"11\" data-font-weight=\"bold\" data-font-family=\"secondary\">Kelihatan mudah dengan belajar bersama.</p>\n\n\n\n\n          <simple-cta hotline filled=\"\" outlined=\"\" slot=\"buttons\" accent-color=\"grey\" remote-link-target=\"{}\" icon=\"communication:call-missed-outgoing\" link=\"/halo\" label=\"Buka\" remote-link-url=\"/halo\">\n    <br>\n  </simple-cta>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</page-section>\n<grid-plate item-margin=\"16\" item-padding=\"16\" layout=\"1-1-1\"><accent-card accent-color=\"red\" accent-heading image-src=\"files/belajar.jpg\" ready heading=\"Accent Card\" subheading=\"A card with optional accent stylings.\" content=\"\n    &#60;p class=&quot;&quot;&#62;This card is highly customizable to contain any content you'd like&#60;/p&#62;\n  \" horizontal slot=\"col-1\">\n   <h3 slot=\"heading\">Accent Card</h3>\n\n   <h5 slot=\"subheading\">A card with optional accent stylings.</h5>\n\n  <div slot=\"content\">\n    <p>This card is highly customizable to contain any content you'd like</p>\n  </div>\n\n\n\n\n\n\n\n\n\n\n</accent-card>\n\n\n\n\n\n\n<accent-card accent-color=\"purple\" accent-heading image-src=\"files/coding.jpg\" ready heading=\"Accent Card\" subheading=\"A card with optional accent stylings.\" content=\"\n    &#60;p class=&quot;&quot;&#62;This card is highly customizable to contain any content you'd like&#60;/p&#62;\n  \" slot=\"col-2\" data-width=\"100\" horizontal data-padding=\"m\">\n     <h3 slot=\"heading\">Accent Card</h3>\n\n\n     <h5 slot=\"subheading\">A card with optional accent stylings.</h5>\n\n\n    <div slot=\"content\">\n    <p>This card is highly customizable to contain any content you'd like</p>\n  </div>\n\n\n\n\n\n\n\n\n\n\n\n</accent-card>\n\n\n\n\n\n\n<accent-card accent-color=\"red\" accent-heading horizontal image-src=\"files/halo-dunia.jpg\" ready heading=\"Accent Card\" subheading=\"A card with optional accent stylings.\" content=\"\n    &#60;p&#62;This card is highly customizable to contain any content you'd like&#60;/p&#62;\n  \" slot=\"col-3\">\n       <h3 slot=\"heading\">Accent Card</h3>\n\n\n\n       <h5 slot=\"subheading\">A card with optional accent stylings.</h5>\n\n\n\n      <div slot=\"content\">\n    <p>This card is highly customizable to contain any content you'd like</p>\n  </div>\n\n\n\n\n\n\n\n\n\n\n\n\n</accent-card>\n\n\n\n\n\n\n</grid-plate>\n<rpg-character seed=\"haxtheweb\" hat=\"construction\" accent-color=\"orange\" height=\"142\" width=\"113\" accessories=\"9\" base=\"0\" face=\"1\" face-item=\"8\" hair=\"2\" pants=\"2\" shirt=\"0\" skin=\"8\" hat-color=\"0\" leg=\"R\" speed=\"500\" reduce-motion></rpg-character>\n<rpg-character accent-color=\"orange\" accessories=\"9\" height=\"142\" width=\"113\" base=\"0\" face=\"1\" face-item=\"8\" hair=\"2\" pants=\"2\" shirt=\"0\" skin=\"8\" hat-color=\"0\" hat=\"education\" leg=\"R\" seed=\"haxtheweb\" speed=\"100\" reduce-motion fire></rpg-character>\n<play-list loop aspect-ratio=\"16:9\" slide=\"1\" orientation=\"horizontal\" navigation pagination>\n  <media-image source=\"https://images.unsplash.com/photo-1520110120835-c96534a4c984\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n\n\n\n\n\n\n\n\n\n\n  <media-image source=\"https://images.unsplash.com/photo-1525338078858-d762b5e32f2c\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n\n\n\n\n\n\n\n\n\n\n  <media-image source=\"https://images.unsplash.com/photo-1550745165-9bc0b252726f\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n\n\n\n\n\n\n\n\n\n\n</play-list>\n<grid-plate disable-responsive layout=\"2-1\">\n   <h2 data-design-treatment=\"vert\" data-primary=\"15\" slot=\"col-1\">Scanning Process / Software</h2>\n\n  <p slot=\"col-1\">The following stages of the process involves aligning the various scans to create\n    a coherent, detailed 3D model using Artec Studio 17 software. The point cloud is\n    converted into a mesh, which is a solid 3D model, and the texture data captured by\n    the scanner is mapped back onto the mesh to add color, markings, and other details.\n    The final 3D model can be exported into other software platforms, such as Blender\n    and Instant Mesh, both of which are open-source.</p>\n  <p slot=\"col-1\">To optimize the model for web use, it must be reduced significantly in size. To\n    achieve this, the polygon count is reduced using Instant Mesh, and the resulting\n    low-polygon model is unwrapped, and the texture and additional details are added\n    through a process called “baking” onto the model using normal mapping. This is a\n    commonly used technique in film and video game production to reduce file sizes, processing\n    power, and other resources required.</p>\n  <media-image citation=\"3D scanner and software shown scanning an ODL coffee mug.\" accent-color=\"grey\" size=\"wide\" offset=\"none\" slot=\"col-2\" source=\"https://bones.courses.science.psu.edu/assets/images/scanning-page-images/scanner-odl.jpg\" card box></media-image>\n\n\n\n\n\n\n\n\n\n\n  <a11y-gif-player alt=\"It's Always Sunny in Philadelphia Pepe Silvia Meme with GIFs\" src=\"https://i.pinimg.com/originals/64/5b/5b/645b5ba2e24c4003155c87cd0ac5e36f.gif\" longdesc=\"Pepe Silvia scene from It's Always Sunny in Philadelphia. The GIF's don't stop.\" slot=\"col-2\" resource=\"#6c3838a5-fbf8-66f2-5991-136f3d7b0774\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org \" src-without-animation=\"http://localhost:3000/api/services/media/image/manipulate?quality=50&amp;src=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExYzFzOWJoaHg1YTR6cXY5YzllZXU0bnZ2b2dyY2RsOHVjZHN0MDlsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2F1GNi6gbKE25TG%2Fgiphy.gif\"></a11y-gif-player>\n\n\n\n\n\n\n\n\n\n<a11y-gif-player alt=\"It's Always Sunny in Philadelphia Pepe Silvia Meme with GIFs\" longdesc=\"Pepe Silvia scene from It's Always Sunny in Philadelphia. The GIF's don't stop.\" src=\"https://i.pinimg.com/originals/64/5b/5b/645b5ba2e24c4003155c87cd0ac5e36f.gif\" src-without-animation=\"http://localhost:3000/api/services/media/image/manipulate?quality=50&amp;src=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExYzFzOWJoaHg1YTR6cXY5YzllZXU0bnZ2b2dyY2RsOHVjZHN0MDlsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2F1GNi6gbKE25TG%2Fgiphy.gif\" slot=\"col-2\" resource=\"#6c3838a5-fbf8-66f2-5991-136f3d7b0774\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org \"></a11y-gif-player>\n\n\n\n\n\n\n\n\n\n\n  <ddd-card src=\"files/syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg\" title=\"Title\" link=\"https://hax.cloud\" slot=\"col-2\" rel=\"noopener nofollow noreferrer\" t=\"{&quot;explore&quot;:&quot;Explore&quot;}\">\n    <p>The card content</p>\n  </ddd-card>\n\n\n\n\n\n\n\n\n\n\n</grid-plate>\n<grid-plate item-margin=\"16\" item-padding=\"16\" layout=\"1-1\"><p slot=\"col-1\">Column one content to replace</p><p slot=\"col-2\">Column two content to replace</p></grid-plate>\n<page-section accent-color=\"blue\" scroller-label=\"Scroll to reveal content\" bg=\"light-blue\" buttons=\"\n    &#60;br&#62;\n  \" preset=\"preset\" image=\"files/halo-dunia.jpg\" filter>\n       <h2 id=\"header-912b5ca1-8d2d-3045-db44-2d9920238bdc\" style=\"color: green;\">Sharp looking section</h2>\n\n\n\n      <hr>\n\n\n      <p data-primary=\"11\" data-font-weight=\"bold\" data-font-family=\"secondary\">Kelihatan mudah dengan belajar bersama.</p>\n\n\n      <simple-cta hotline filled=\"\" outlined=\"\" slot=\"buttons\" accent-color=\"grey\" remote-link-target=\"{}\" icon=\"communication:call-missed-outgoing\" link=\"/halo\" label=\"Buka\" remote-link-url=\"/halo\">\n    <br>\n  </simple-cta>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</page-section>\n"
+        },
+        {
+          "id": "item-2311a755-d0fc-430b-b0d5-c92738573e16",
+          "indent": 0,
+          "location": "pages/item-2311a755-d0fc-430b-b0d5-c92738573e16/index.html",
+          "slug": "page",
+          "order": 2,
+          "parent": null,
+          "title": "Page",
+          "description": "",
+          "metadata": {
+            "created": 1763716065,
+            "updated": 1763869899,
+            "images": [],
+            "videos": [],
+            "published": true,
+            "locked": false,
+            "status": ""
+          },
+          "contents": "<p></p>"
+        },
+        {
+          "id": "item-45efd8c7-dfb3-4367-a95e-540092fe9d35",
+          "indent": 0,
+          "location": "pages/item-45efd8c7-dfb3-4367-a95e-540092fe9d35/index.html",
+          "slug": "bab3",
+          "order": 3,
+          "parent": null,
+          "title": "Bab Berpikir Kritis dan Dampak Sosial Informatika",
+          "description": "Revolusi industri 4.0 menyentuh hampir semua aspek dalam kehidupan sehari-hari. Dengan pemanfaatan Internet of things (IoT), automasi, teknologi cerdas di berbagai bidang, termasuk dalam bidang ",
+          "metadata": {
+            "locked": false,
+            "created": 1763716114,
+            "images": {},
+            "videos": {},
+            "updated": 1763869899,
+            "published": true,
+            "pageType": "content",
+            "hideInMenu": true,
+            "readtime": 1,
+            "status": "",
+            "icon": "lrn:page",
+            "files": [
+              {
+                "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\brain.jpg",
+                "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/brain.jpg",
+                "url": "files/brain.jpg",
+                "type": "image/jpeg",
+                "name": "brain.jpg",
+                "size": 26946
+              }
+            ],
+            "theme": {
+              "element": "polaris-flex-sidebar",
+              "path": "@haxtheweb/polaris-theme/lib/polaris-flex-sidebar.js",
+              "name": "Polaris - Flex Sidebar",
+              "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+              "key": "polaris-flex-sidebar"
+            },
+            "image": "files/brain.jpg",
+            "tags": "materi",
+            "accentColor": "pink"
+          },
+          "contents": "\n<p>Revolusi industri 4.0 menyentuh hampir semua aspek dalam kehidupan sehari-hari. Dengan pemanfaatan Internet of things (IoT), automasi, teknologi cerdas di berbagai bidang, termasuk&#160;dalam bidang pertanian dan kesehatan. Sebagai contoh dalam pemanfaatan teknologi di bidang pertanian modern 4.0, petani dapat memantau kapan saatnya panen, kapan dan berapa banyak air yang harus dialirkan, tanpa harus datang ke sawah. Lalu pemasaran dan penjualan produk pun menjadi lebih efisien karena dapat dilakukan secara daring. Contoh pemanfaatan teknologi lainnya di bidang kesehatan, yaitu para dokter dapat melakukan operasi jarak jauh terhadap seorang pasien dari lokasi yang berbeda dengan lokasi tempat pasien dirawat. Terlebih pada masa pandemi di mana pertemuan langsung dibatasi dengan istilah social distancing, metode konsultasi dokter pun berevolusi, dengan hadirnya pilihan dapat dilakukan secara daring.</p>\n<h3 id=\"header-d87b2b73-f545-2a08-5151-d165cdd9e88f\">Beberapa sub-bab pada bab 3</h3>\n<site-collection-list accent-color=\"grey\" responsive-size=\"lg\" published=\"\" limit=\"8\" sort=\"title\" tags=\"kritis\" parent=\"item-45efd8c7-dfb3-4367-a95e-540092fe9d35\"></site-collection-list>\n"
+        },
+        {
+          "id": "item-a8118712-0876-4311-9451-b3d0a5b7525c",
+          "indent": 0,
+          "location": "pages/item-a8118712-0876-4311-9451-b3d0a5b7525c/index.html",
+          "slug": "page-1",
+          "order": 0,
+          "parent": null,
+          "title": "Page",
+          "description": "tes kuis\n",
+          "metadata": {
+            "created": 1763717438,
+            "updated": 1763869899,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "locked": false,
+            "status": "",
+            "hideInMenu": false,
+            "readtime": 1
+          },
+          "contents": "\n<p>tes kuis eror lagi uhh</p>\n<p></p>\n<kuis-confeti id=\"confetti\" duration=\"1500\" particle-count=\"180\"></kuis-confeti>\n<enhanced-pause-component visible-content=\"1\" show-buttons labels=\"[&quot;Content 1&quot;,&quot;Content 2&quot;,&quot;Content 3&quot;,&quot;Content 4&quot;,&quot;Content 5&quot;,&quot;Content 6&quot;,&quot;Content 7&quot;,&quot;Content 8&quot;,&quot;Content 9&quot;,&quot;Content 10&quot;,&quot;Content 11&quot;,&quot;Content 12&quot;]\">\n    <div slot=\"content-1\">\n      <p>Bagian materi 1  akan langsung terlihat saat halaman dibuka.</p>\n    </div>\n\n  \n    <div slot=\"content-2\">\n      <p>Bagian materi 2  muncul setelah tombol Pause diklik sekali.</p>\n    </div>\n\n  \n    <div slot=\"content-3\">\n      <p>Bagian materi 3  muncul setelah klik Pause lagi.</p>\n    </div>\n\n  \n    <div slot=\"content-4\">\n      <p>Bagian materi 4  dst.</p>\n    </div>\n\n    <div slot=\"content-5\">\n        <p>Bagian materi 4  dst.</p>\n      </div>\n\n      <div slot=\"content-6\">\n        <p>Bagian materi 4  dst.</p>\n      </div>\n\n      <div slot=\"content-7\">\n        <p>Bagian materi 4  dst.</p>\n      </div>\n\n      <div slot=\"content-8\">\n        <p>Bagian materi 4  dst.</p>\n      </div>\n\n      <div slot=\"content-7\">\n        <p>Bagian materi 8  dst.</p>\n      </div>\n\n  </enhanced-pause-component>\n"
+        },
+        {
+          "id": "item-180dedc9-60ec-4db6-8fe8-0b5f8add8481",
+          "indent": 0,
+          "location": "pages/item-180dedc9-60ec-4db6-8fe8-0b5f8add8481/index.html",
+          "slug": "page-copy",
+          "order": 1,
+          "parent": null,
+          "title": "Page Copy",
+          "description": "",
+          "metadata": {
+            "created": 1763869760,
+            "updated": 1763869899,
+            "images": [],
+            "videos": [],
+            "published": true,
+            "locked": false,
+            "status": ""
+          },
+          "contents": "\n<p>tes kuis eror lagi uhh</p>\n<p></p>\n<kuis-confeti id=\"confetti\" duration=\"1500\" particle-count=\"180\"></kuis-confeti>\n<enhanced-pause-component visible-content=\"1\" show-buttons labels=\"[&quot;Content 1&quot;,&quot;Content 2&quot;,&quot;Content 3&quot;,&quot;Content 4&quot;,&quot;Content 5&quot;,&quot;Content 6&quot;,&quot;Content 7&quot;,&quot;Content 8&quot;,&quot;Content 9&quot;,&quot;Content 10&quot;,&quot;Content 11&quot;,&quot;Content 12&quot;]\">\n    <div slot=\"content-1\">\n      <p>Bagian materi 1  akan langsung terlihat saat halaman dibuka.</p>\n    </div>\n\n  \n    <div slot=\"content-2\">\n      <p>Bagian materi 2  muncul setelah tombol Pause diklik sekali.</p>\n    </div>\n\n  \n    <div slot=\"content-3\">\n      <p>Bagian materi 3  muncul setelah klik Pause lagi.</p>\n    </div>\n\n  \n    <div slot=\"content-4\">\n      <p>Bagian materi 4  dst.</p>\n    </div>\n\n    <div slot=\"content-5\">\n        <p>Bagian materi 4  dst.</p>\n      </div>\n\n      <div slot=\"content-6\">\n        <p>Bagian materi 4  dst.</p>\n      </div>\n\n      <div slot=\"content-7\">\n        <p>Bagian materi 4  dst.</p>\n      </div>\n\n      <div slot=\"content-8\">\n        <p>Bagian materi 4  dst.</p>\n      </div>\n\n      <div slot=\"content-7\">\n        <p>Bagian materi 8  dst.</p>\n      </div>\n\n  </enhanced-pause-component>\n"
+        },
+        {
+          "id": "item-b3bf1693-3358-40f6-816a-be918070b260",
+          "indent": 0,
+          "location": "pages/item-b3bf1693-3358-40f6-816a-be918070b260/index.html",
+          "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika",
+          "order": 4,
+          "parent": null,
+          "title": "Copy of Bab Berpikir Kritis dan Dampak Sosial Informatika",
+          "description": "",
+          "metadata": {
+            "locked": false,
+            "created": 1763869900,
+            "images": [],
+            "videos": [],
+            "updated": 1763869900
+          },
+          "contents": "\n<p>Revolusi industri 4.0 menyentuh hampir semua aspek dalam kehidupan sehari-hari. Dengan pemanfaatan Internet of things (IoT), automasi, teknologi cerdas di berbagai bidang, termasuk&#160;dalam bidang pertanian dan kesehatan. Sebagai contoh dalam pemanfaatan teknologi di bidang pertanian modern 4.0, petani dapat memantau kapan saatnya panen, kapan dan berapa banyak air yang harus dialirkan, tanpa harus datang ke sawah. Lalu pemasaran dan penjualan produk pun menjadi lebih efisien karena dapat dilakukan secara daring. Contoh pemanfaatan teknologi lainnya di bidang kesehatan, yaitu para dokter dapat melakukan operasi jarak jauh terhadap seorang pasien dari lokasi yang berbeda dengan lokasi tempat pasien dirawat. Terlebih pada masa pandemi di mana pertemuan langsung dibatasi dengan istilah social distancing, metode konsultasi dokter pun berevolusi, dengan hadirnya pilihan dapat dilakukan secara daring.</p>\n<h3 id=\"header-d87b2b73-f545-2a08-5151-d165cdd9e88f\">Beberapa sub-bab pada bab 3</h3>\n<site-collection-list accent-color=\"grey\" responsive-size=\"lg\" published=\"\" limit=\"8\" sort=\"title\" tags=\"kritis\" parent=\"item-45efd8c7-dfb3-4367-a95e-540092fe9d35\"></site-collection-list>\n"
+        },
+        {
+          "id": "item-ac68b0d7-a4be-4a62-9c2f-2587bc8d9626",
+          "indent": 1,
+          "location": "pages/item-ac68b0d7-a4be-4a62-9c2f-2587bc8d9626/index.html",
+          "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika/copy-of-berpikir-kritis-dan-pengambilan-keputusan",
+          "order": 0,
+          "parent": "item-b3bf1693-3358-40f6-816a-be918070b260",
+          "title": "Copy of Berpikir Kritis dan Pengambilan Keputusan",
+          "description": "",
+          "metadata": {
+            "locked": false,
+            "created": 1763869900,
+            "images": [],
+            "videos": [],
+            "updated": 1763869900
+          },
+          "contents": "\n<p>Revolusi Industri 4.0 telah memberikan <strong>dampak transformatif</strong> pada\n  bidang pendidikan, menjanjikan peningkatan <strong>akses, kecepatan, dan pemerataan</strong> informasi\n  yang signifikan melalui teknologi digital seperti kecerdasan buatan, <i>big data</i>,\n  dan komputasi awan. Platform pembelajaran daring dan sumber daya pendidikan terbuka\n  (<i>Open Educational Resources/OER</i>) memungkinkan materi berkualitas didistribusikan\n  secara <strong>luas dan merata</strong>, berpotensi besar untuk <strong>memberantas kebodohan</strong> dengan\n  menjangkau populasi yang sebelumnya terisolasi. Pembelajaran menjadi lebih <strong>interaktif</strong> dan\n  personal melalui simulasi, realitas virtual (<i>VR</i>), dan analitik data yang menyesuaikan\n  konten dengan kebutuhan individu peserta didik.&#160;</p>\n<p>Namun, perlu dipahami bahwa teknologi ibarat pisau bermata dua. Di satu sisi, kehadiran\n  teknologi internet sangat memudahkan distribusi dan akses informasi yang kita butuhkan,\n  berpotensi meningkatkan capaian seperti terlihat dari perbaikan peringkat Indonesia\n  di <strong>PISA 2022</strong> (peringkat 69 dari 80 negara dengan skor literasi membaca <strong>359</strong>,\n  naik dari 2018). Di sisi lain, kemudahan akses ini juga mengakibatkan beredarnya\n  berbagai macam berita bohong (hoaks) dan disinformasi. Oleh karena itu, sikap yang\n  tepat terhadap berbagai produk Teknologi Informasi dan Komunikasi (TIK) dan sistem\n  komputasi adalah dengan mengembangkan <strong>literasi digital</strong> yang kuat,\n  mengajarkan kemampuan <strong>berpikir kritis</strong> untuk menyaring informasi, dan\n  memanfaatkan teknologi sebagai <strong>alat bantu</strong> untuk personalisasi dan\n  peningkatan kualitas, bukan sekadar pengganti metode pembelajaran tradisional.</p>\n<simple-cta link=\"kritis#menuju-soal\" accent-color=\"purple\" icon=\"icons:chevron-right\" label=\"Langsung ke soal formatif\" style=\"color: pink;\" data-margin=\"center\" data-text-align=\"center\" remote-link-target=\"{}\" remote-link-url=\"kritis#menuju-soal\" edit-mode=\"\"></simple-cta>\n<a11y-collapse heading=\"Apersepsi\" accent-color=\"grey\" icon=\"icons:help-outline\" tooltip=\"expand\" icon-expanded=\"icons:check\" label=\"expand\" heading-button>\n    <p>Apa contoh teknologi Revolusi 4.0 dapat secara efektif menjembatani jurang kesenjangan\n      digital (digital divide) masyarakat?</p>\n  </a11y-collapse>\n<h3 id=\"header-aac9ecfe-eda4-e221-c9c4-a60f449c5af8\">Pandemi Covid-19</h3>\n<p>Dalam era digital ini, berita dan informasi tersedia dalam berbagai bentuk mulai\n    dari media cetak hingga digital yang disebarluaskan melalui berbagai cara. Beragamnya\n    latar belakang masyarakat, menyebabkan respons orang terhadap suatu informasi pun\n    beragam. Akibatnya, terkadang kita temukan peristiwa-peristiwa yang tidak diharapkan,\n    bahkan merugikan atau membahayakan nyawa. Sebagai contoh, cukup sering kita mendengar\n    atau membaca berita tentang orang yang tertipu pesan singkat yang dikirimkan melalui\n    ponsel</p>\n<p>Di masa pandemi Covid-19, hingga bulan April 2021 Kementerian Komunikasi dan Informatika\n    bahkan mencatat 1.733 hoaks terkait Covid-19 dan vaksin (Agustini, 2021). Beberapa\n    berita hoaks terkait vaksin dan covid bahkan berujung pada kehilangan nyawa karena\n    orang mempercayai berita yang tidak benar sehingga mengambil keputusan yang keliru\n    ketika terpapar (Kurnia, 2019). Kita dapat menemukan pula berita tentang para remaja\n    yang membahayakan nyawa dengan menghadang truk demi bisa menghasilkan konten yang\n    disukai orang di media sosial (detikcom, 2021).&#160;Kasus lain yang juga kita jumpai\n    adalah tentang pencurian data-data pribadi, yang terekam secara digital, untuk kejahatan\n    (Annur, 2021).</p>\n<h6 id=\"header-83752493-5f1e-78bd-f9a5-711dcbd9b26a\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\"><span> Apa manfaat atau kerugian yang kalian dapatkan dari kalian dengan mengecek terlebih\n  dahulu kebenaran informasi yang kalian terima sebelum meneruskannya ke orang lain?</span></h6>\n<learning-component accent-color=\"indigo\" type=\"objectives\" subtitle=\"Berpikir Kritis dan Pengambilan Keputusan\" title=\"Learning Objectives\" icon=\"courseicons:learning-objectives\">\n    <p>Di akhir pelajaran siswa akan belajar</p>\n    <ol>\n      <li>mengenal konsep berpikir kritis</li>\n      <li>belajar mengkritisi berbagai peristiwa</li>\n      <li>memahami pentingnya berpikir kritis</li>\n    </ol>\n\n    <a11y-collapse heading=\"Jawablah\" accent-color=\"grey\" icon=\"icons:help-outline\" tooltip=\"expand\" icon-expanded=\"icons:check\" label=\"expand\">\n      <p>Dari tujuan tersebut Manakah yang penting untuk dipelajari? Mengapa hal tersebut\n        penting untuk dibahas?</p>\n    </a11y-collapse>\n\n  </learning-component>\n<h3 id=\"header-ea0de0bd-7917-ce87-e55a-bae6648ebdf2\">Sekolah di Masa Pandemi</h3>\n<p>Di masa pandemi Covid-19, 🧑🏻&#8205;💻 Sinta melihat ponsel yang menampilkan pesan\n    viral \"<i>larangan sekolah tatap muka diperpanjang selamanya</i>\" dengan tanda tanya\n    besar di atas kepalanya.</p>\n<p>🔍 Sinta membuka tiga tab; berbeda di peramban: (1) Sumber viral, (2) Situs berita\n    resmi, (3) Akun media sosial Kemendikbud.</p>\n<media-image source=\"files/libur-selamanya.jpg\" citation=\"ilustrasi oleh AI\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"50\"></media-image>\n<stop-note title=\"Perhatikan bacaan berikut\" accent-color=\"grey\" icon=\"stopnoteicons:book-icon\" status=\"info\" message=\"Literasi digital adalah kemampuan individu untuk menemukan, mengevaluasi, dan mengkomunikasikan\n    informasi secara jelas dengan menulis atau menggunakan berbagai macam platform digital\n    lainnya (Wikipedia, 2021). Literasi digital dibutuhkan untuk hidup, belajar, dan\n    bekerja dalam masyarakat dimana komunikasi dan akses ke informasi melalui teknologi\n    digital seperti internet, media sosial, dan perangkat bergerak (mobile devices) meningkat\n    pesat (https://westernsydney.edu.au).\" id=\"menuju-soal\"><strong>“Literasi Digital”</strong> \n    <p slot=\"message\">Fakta menunjukkan bahwa Indonesia merupakan negara dengan jumlah pengguna internet\n      terbanyak ke-3 di Asia (Kusnandar, 2021). Di sisi lain, menurut survei Global World\n      Digital Competitiveness Index, literasi digital Indonesia berada di peringkat ke-56\n      dari 63 negara yang disurvei (IMD, 2021).</p>\n    <p slot=\"message\">Literasi digital adalah kemampuan individu untuk menemukan, mengevaluasi, dan mengkomunikasikan\n      informasi secara jelas dengan menulis atau menggunakan berbagai macam platform digital\n      lainnya (Wikipedia, 2021). Literasi digital dibutuhkan untuk hidup, belajar, dan\n      bekerja dalam masyarakat dimana komunikasi dan akses ke informasi melalui teknologi\n      digital seperti internet, media sosial, dan perangkat bergerak (mobile devices) meningkat\n      pesat (https://westernsydney.edu.au).</p>\n  </stop-note>\n<h6 id=\"header-457a4109-7fb8-7cab-881d-7e87b44a3f40\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\"> Melihat bahwa Indonesia peringkat ke-3 pengguna internet TERTINGGI, namun ke-56 literasi digital TERENDAH: Apa yang perlu kamu perbaiki dari kebiasaan digitalmu hari ini? Mengapa?\" </h6>\n<p></p>\n<h3 id=\"header-7c86ea16-1d8a-fc0e-ef07-c4e30d1099b5\">Konsep Berpikir Kritis</h3>\n<p>Kemampuan mengevaluasi informasi adalah salah satu kemampuan yang dibutuhkan dalam\n    literasi digital. Untuk bisa mengevaluasi informasi, tentu saja orang butuh kemampuan\n    berpikir yang kritis.</p>\n<p>Kemampuan berpikir adalah kemampuan yang dimiliki oleh semua manusia yang sehat.\n    Kemampuan itu membantu untuk bertahan hidup dan mengatasi berbagai persoalan yang\n    dihadapinya. Semakin tinggi kemampuan berpikir seseorang maka semakin berkualitas\n    pula keputusan-keputusan yang diambil, pekerjaan yang dilakukan, dan karya yang dihasilkan.</p>\n<true-false-question question=\"Berpikir kritis mengharuskan kita untuk menghilangkan semua emosi agar keputusan menjadi 100% rasional.\" max-attempts=\"0\" typeof=\"oer:Assessment\" resource=\"#13482f2d-d816-bc46-f51a-74861dbf62b5\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org \" quiz-name=\"default\" single-option>\n    <p slot=\"feedbackIncorrect\">Mustahil dan tidak perlu. Tugas kritis adalah mengidentifikasi emosi dan memastikan\n      ia tidak mendominasi Logika dan Akurasi data. Emosi dapat menjadi Konteks, tapi bukan\n      dasar keputusan.</p>\n    <p slot=\"feedbackCorrect\">Anda benar. Tugasnya adalah mengidentifikasi emosi dan memastikan ia tidak mendominasi\n      Logika dan Akurasi data.</p>\n    <p slot=\"content\"></p>\n    <p slot=\"hint\">bedakan emosi dan logika/data</p>\n    <p slot=\"evidence\"></p>\n    \n    \n    <input type=\"checkbox\" value=\"True\"><input type=\"checkbox\" value=\"False\" correct=\"correct\"></true-false-question>\n<p>Sesungguhnya apa yang dimaksud dengan berpikir kritis? Dalam berbagai literatur\n      dapat ditemukan banyak ahli yang membahas tentang berpikir kritis, misalnya Paul\n      &#38;amp; Elder (2006), Glasser (2017), Clarke (2019). Masing-masing mempunyai cara\n      pandang sendiri. Dalam buku ini, akan digunakan referensi yang ditulis oleh Paul\n      dan Elder (2006), yang mendefinisikan berpikir kritis (critical thinking) sebagai\n      seni menganalisis dan mengevaluasi pemikiran dengan maksud untuk memperbaikinya.\n      Dengan kata lain, saat orang menghadapi suatu situasi atau mendapatkan suatu informasi\n      baik lisan maupun tertulis, orang yang berpikir kritis akan mengambil sudut pandang\n      tertentu kemudian menganalisis situasi atau informasi tersebut untuk mengambil kesimpulan,\n      mengambil keputusan, atau merumuskan solusi yang tepat.</p>\n<h6 id=\"header-457a4109-7fb8-7cab-881d-7e87b44a3f40\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\"> \"Pilih salah satu dari ini: STOP atau GO. Dalam situasi menerima berita yang memicu emosi, manakah yang merepresentasikan langkah awal berpikir kritis? Berikan satu alasan logis, bukan emosional, mengapa kamu memilih itu.\" </h6>\n<p>Perlu diingat bahwa berpikir kritis tidak sama dengan &#8220;asal mengkritik tanpa\n      data dan argumentasi jelas&#8221; atau berpikir negatif atas sesuatu yang dibahas\n      (<a href=\"westernsydney.edu.au/studysmart\" target=\"_blank\">westernsydney.edu.au/studysmart</a>).\n      Sebagai contoh, ketika kalian membaca suatu artikel, kalian boleh saja setuju atau\n      tidak setuju pada apa yang dikatakan penulis.<strong> Jika kalian setuju</strong>,\n      kalian bisa tetap bersikap kritis pada isi tulisannya dengan cara menyampaikan <strong>alasan </strong>mengapa\n      kalian berpikir bahwa penulis telah mengungkapkan hal yang benar dengan dasar bukti\n      dan argumentasi yang penulis paparkan. <strong>Jika kalian tidak setuju</strong>,\n      kalian bersikap kritis dengan mencoba memahami sudut pandang penulis serta bagaimana\n      penulis bisa mengambil kesimpulan yang dimaksud, kemudian sampaikan alasan ketidaksetujuan\n      kalian secara logis dan tetap santun. Dengan cara ini kalian akan tetap bisa menghargai\n      orang yang berbeda pendapat dengan kalian. Sebuah botol yang isinya hanya separuh\n      dapat disimpulkan sebagai separuh kosong, atau separuh isi.</p>\n<h6 id=\"header-457a4109-7fb8-7cab-881d-7e87b44a3f40\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\">&#160;\"Jika Literasi Digital adalah proses menerima informasi, maka Berpikir Kritis adalah proses melakukan apa terhadap informasi itu? Sebutkan satu kata kunci aksi (kata kerja) yang menjadi jembatan antara keduanya. Mengapa kata kunci itu penting?\" </h6>\n<h3 id=\"header-ca95dd3c-46a5-b241-a925-9d5246731b2a\">Berpikir Kritis dan Pengambilan Keputusan</h3>\n<p>Semakin penting keputusan yang perlu diambil, semakin penting pula keterampilan\n      berpikir kritis diterapkan. Apa yang harus dilakukan saat orang harus mengambil keputusan?</p>\n<p>Apa yang harus dilakukan saat orang harus mengambil keputusan? Gambar berikut ini\n      merupakan langkah umum orang saat mengambil keputusan, mulai dari identifikasi masalah\n      hingga evaluasi keputusan dan akibatnya. Tidak semua keputusan harus secara kaku\n      mengikuti langkah umum ini karena bisa saja menyesuaikan kasus yang dihadapi.</p>\n<media-image source=\"files/pengambilan-keputusan.jpg\" citation=\"Buku Informatika Kemdikbud kelas 11 halaman 109\" accent-color=\"grey\" size=\"wide\" offset=\"none\" caption=\"Langkah Mengambil Keputusan\" modal-title=\"Langkah Mengambil Keputusan\" _has-caption></media-image>\n<h4 id=\"header-875ac498-0af9-3e4d-b77a-4ed13cafc410\"> 1. Identifikasi Masalah</h4>\n<p>Rumuskan dengan jelas masalah yang harus diambil keputusannya, apa tujuannya, serta\n        batasan-batasan yang ada.\n        <br>\n      </p>\n<media-image source=\"files/libur-selamanya.jpg\" alt=\"libur-selamanya.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"narrow\" data-width=\"25\" caption=\"Apakah benar informasi&quot;larangan sekolah tatap muka diperpanjang selamanya&quot;.\" modal-title=\"Apakah benar informasi&quot;larangan sekolah tatap muka diperpanjang selamanya&quot;.\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<h4 id=\"header-10ae756d-583e-e9d9-b1bb-1cfeed225e08\">2. Identifikasi Kriteria</h4>\n<p>Tetapkan kriteria yang akan dipergunakan untuk mengambil keputusan. Jika diperlukan,\n        dapat ditetapkan sub kriteria untuk merinci setiap kriteria.</p>\n<media-image accent-color=\"grey\" source=\"files/kriteria.jpg\" alt=\"libur-selamanya.jpg\" size=\"wide\" offset=\"narrow\" data-width=\"25\" caption=\"&quot;Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.&quot;\" modal-title=\"&quot;Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.&quot;\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<p>📊 Sinta membandingkan pesan viral dengan pernyataan resmi. Ia mengecek tanggal\n        dan penulis sumber.</p>\n<h4 id=\"header-9609a3b1-fe36-9403-f0ca-e4219ed184c8\">3. Tetapkan Bobot Kriteria</h4>\n<p>Tiap kriteria maupun sub kriteria bisa memiliki tingkat kepentingan yang berbeda\n        sehingga diberikan bobot. Semakin penting kriteria/sub kriteria tersebut maka dapat\n        diberikan bobot yang lebih besar daripada kriteria/sub kriteria lainnya.</p>\n<p></p>\n<media-image source=\"files/kriteria.jpg\" alt=\"kriteria.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"&quot;Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.&quot;\" modal-title=\"&quot;Apakah sumber viral ini valid dan dapat dipercaya? Buktinya lemah.&quot;\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<p><i>Sinta membandingkan pesan viral dengan pernyataan resmi. Ia mengecek tanggal dan penulis sumber.</i> \n      </p>\n<flash-card speak=\"speak\" img-source=\"files/keputusan-digital2.jpg\" listen=\"listen\" accent-color=\"amber\" img-keyword=\"kritis, keputusan\" data-margin=\"center\"><span slot=\"front\">Keputusan Digital: Saat kamu sering impulsif atau menyesal setelah mengambil keputusan (misal: menyebar berita/membeli barang), Apa yang kamu abaikan?</span>\n\n        <span slot=\"back\">situasi kondisi</span>\n      </flash-card>\n<h4 id=\"header-a4e49151-4eec-11da-93e8-617ee68e74bf\">4. Identifikasi Alternatif</h4>\n<p>Pada tahap ini diidentifikasi beberapa alternatif yang mungkin dipilih sebagai alternatif\n        solusi, konsekuensi dari setiap alternatif, serta informasi lain terkait alternatif</p>\n<media-image source=\"files/alternatif.jpg\" alt=\"alternatif.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"🤔 Sinta mencoret-coret di buku. Ia menuliskan: Asumsi: Semua berita pemerintah bohong. Lalu ia menggaris bawahi: Fakta: Pernyataan ini didukung bukti otentik.\" modal-title=\"🤔 Sinta mencoret-coret di buku. Ia menuliskan: Asumsi: Semua berita pemerintah bohong. Lalu ia menggaris bawahi: Fakta: Pernyataan ini didukung bukti otentik.\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<p></p>\n<h4 id=\"header-44999145-2f96-3dc8-a805-7574221ec6ce\">5. Evaluasi Alternatif</h4>\n<p>Evaluasilah setiap alternatif berdasar kriteria dan bobot yang ditetapkan. Gunakan\n          informasi yang didapatkan untuk mengevaluasi.</p>\n<media-image source=\"files/evaluasi.jpg\" alt=\"evaluasi.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"&quot;Hal yang paling signifikan di sini adalah, isu sepenting ini pasti akan diumumkan melalui kanal resmi dan terverifikasi.&quot;\" modal-title=\"&quot;Hal yang paling signifikan di sini adalah, isu sepenting ini pasti akan diumumkan melalui kanal resmi dan terverifikasi.&quot;\" _has-caption></media-image>\n<p></p>\n<h4 id=\"header-54be906e-0969-f474-4e1a-698058102696\">6. Pilih Alternatif Terbaik</h4>\n<p>Pada tahap ini dapat dipilih berbagai macam metode formal untuk mendukung pengambilan\n          keputusan seperti metode <i>Simple Multi Attribute Rating Techniques</i><strong> (SMART)</strong>, <i>Analytic Hierarchy Process</i> (AHP), <i>Cost-Benefit Analysis</i>,\n          dsb (Baker, et.al., 2001). Dapat juga digunakan metode pengambilan keputusan yang\n          dibuat sendiri berdasar kesepakatan pihak-pihak yang berkepentingan.</p>\n<media-image source=\"files/terbaik.jpg\" alt=\"terbaik.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"&quot;Setelah menimbang pro-kontra sumber, aku putuskan: Berita viral itu Hoaks\" modal-title=\"&quot;Setelah menimbang pro-kontra sumber, aku putuskan: Berita viral itu Hoaks\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<p></p>\n<h4 id=\"header-5c90b825-7f57-e05d-db59-a742686c39f3\">7. Implementasi Keputusan</h4>\n<p>Pilih salah satu alternatif yang terbaik sesuai kriteria yang ditentukan, dari antara\n            alternatif yang sudah dievaluasi pada tahap sebelumnya.</p>\n<media-image source=\"files/keputusan.jpg\" alt=\"keputusan.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"&quot;Tolong jangan sebar! Aku sudah cek, ini hoaks. Ini link berita resminya...&quot;\" modal-title=\"&quot;Tolong jangan sebar! Aku sudah cek, ini hoaks. Ini link berita resminya...&quot;\" _has-caption></media-image>\n<p></p>\n<p>Dilakukan oleh 💬 Sinta mengetik pesan di grup, menyertakan link sumber resmi, dan\n            menjelaskan mengapa berita itu palsu.</p>\n<h4 id=\"header-e946076f-610e-b771-08f0-b064acb197aa\">8. Evaluasi Keputusan </h4>\n<p>Evaluasi apakah keputusan tersebut berhasil mengatasi persoalan yang dihadapi. Jika\n            keputusan belum berhasil mengatasi persoalan maka mungkin perlu mengulangi langkahlangkah\n            sebelumnya sambil berpikir apa yang perlu diperbaiki untuk membuat keputusan baru.</p>\n<media-image source=\"files/evaluasi-keputusan.jpg\" alt=\"evaluasi-keputusan.jpg\" accent-color=\"grey\" size=\"wide\" offset=\"none\" data-width=\"25\" caption=\"&quot;Apakah prosesku sudah adil dan efektif? Ya. Lain kali aku harus lebih cepat mencari sumber.&quot;\" modal-title=\"&quot;Apakah prosesku sudah adil dan efektif? Ya. Lain kali aku harus lebih cepat mencari sumber.&quot;\" _has-caption citation=\"ilustrasi oleh AI\"></media-image>\n<h6 id=\"header-1fffaa60-1db0-ad2b-2ac3-2bac55117e6c\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\"><span>  \"Ketika sebuah berita viral muncul di linimasa media sosial Anda, keputusan terpenting apa yang harus Anda ambil sebelum melakukan tindakan lain (seperti menyebarkan, mengomentari, atau mempercayai)? Manakah yang paling penting dari proses mengambil keputusan? Kenapa?</span></h6>\n<p></p>\n<p>Bayangkan kamu punya pilihan: A. Jajan makanan enak/instan (tapi tidak sehat dan\n              menghabiskan uang hari itu), atau B. Menabung uangmu untuk kebutuhan yang lebih sehat/penting\n              di masa depan.</p>\n<h6 id=\"header-ecdfa461-153f-2ef9-08a2-bbdfd09bcf95\" data-design-treatment=\"vert\" data-instructional-action=\"knowledge\"><span>Jika kamu memilih A, apa langkah berpikir (misalnya: kriteria, alternatif, evaluasi) yang paling kamu ingat dari 8 di atas? Sebutkan dua, dan berikan alasannya. Begitu juga sebaliknya.</span></h6>\n<stop-note title=\"Refleksi\" accent-color=\"grey\" icon=\"stopnoteicons:confirm-icon\" status=\"success\" message=\"&#60;spanmessage\"><strong>Proses berpikir Kritis telah berhasil hari ini. Pelajaran           apa yang bisa diambil?</strong> \n              <p></p>\n            </stop-note>\n<h3 id=\"header-603691e8-dd1e-e506-2760-0d0a7d8c5486\">Kuis Asesmen Formatif</h3>\n<p>Jawablah soal esai berikut ini:</p>\n<p></p>\n<kuis-confeti id=\"confetti\" duration=\"1500\" particle-count=\"180\"></kuis-confeti>\n<confetti-quiz web-app-url=\"https://script.google.com/macros/s/AKfycbysR94NFSE5RDwwjvcjdwkohUe3GtZn6t8Hja_geeJdCIriZ_LrHadY0TzVxY9L3R0q/exec\" user-name=\"John Doe\" user-phone=\"081234567890\" user-address=\"Jakarta\" user-kelas=\"XI-XII\" user-absen=\"0\" questions=\"[\n    {&quot;question&quot;:&quot;Siapa presiden pertama Indonesia?&quot;,&quot;answer&quot;:&quot;soekarno&quot;},\n    {&quot;question&quot;:&quot;Ibukota Indonesia?&quot;,&quot;answer&quot;:&quot;jakarta&quot;}\n  ]\">\n</confetti-quiz>\n"
+        },
+        {
+          "id": "item-29ca7217-5265-43d1-b462-98bd032ea69f",
+          "indent": 1,
+          "location": "pages/item-29ca7217-5265-43d1-b462-98bd032ea69f/index.html",
+          "slug": "copy-of-bab-berpikir-kritis-dan-dampak-sosial-informatika/copy-of-kajian-kritis-penerapan-informatika-dalam-bidang-pertanian",
+          "order": 1,
+          "parent": "item-b3bf1693-3358-40f6-816a-be918070b260",
+          "title": "Copy of Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
+          "description": "",
+          "metadata": {
+            "locked": false,
+            "created": 1763869900,
+            "images": [],
+            "videos": [],
+            "updated": 1763869900
+          },
+          "contents": "\n<p>Indonesia adalah negara agraris. Menurut data Badan Pusat Statistik (BPS) tahun 2020, dari 128,45 juta orang yang bekerja di Indonesia, mayoritas (29,76%) bekerja di sektor pertanian. Sebagai negara dengan jumlah penduduk terbesar ke-4 di dunia, bidang pertanian ini sangat penting untuk menjamin ketahanan pangan agar semua penduduknya mendapatkan kecukupan pangan. Bagaimana bidang informatika berperan dalam dunia pertanian? Kehadiran revolusi industri 4.0 yang mengutamakan efisiensi apakah juga menyentuh bidang pertanian? Bagaimana bentuknya? Apakah pekerja di sektor pertanian mendapatkan manfaat atau justru sebaliknya? Melalui keterampilan berpikir kritis yang telah dikenalkan dalam pertemuan sebelumnya, kalian akan belajar untuk mengkaji secara kritis penerapan informatika dalam bidang pertanian ini.</p>\n<p>Beberapa contoh pertanyan secara khusus dikaitkan dengan topik Dampak Sosial Informatika yang menjadi pokok bahasan dalam bab ini. Acuan&#160;5W + 1H&#160;</p>\n<h2 id=\"header-6db52c74-5200-680e-44aa-c2445f994d31\">Tuliskan pertanyaan dengan berpikir kritis materi elemen berpikir sebanyak 10 buah.</h2>\n<p>Contoh 10 Pertanyaan Berpikir Kritis (Elemen Berpikir)</p>\n<p>Berikut adalah pertanyaan yang disusun berdasarkan elemen berpikir kritis untuk mengkaji penerapan informatika dalam pertanian:</p>\n<ol><li><strong>Tujuan (Purpose):</strong> Apa tujuan utama pengembang aplikasi pertanian menciptakan teknologi ini? Apakah murni untuk mensejahterakan petani atau ada tujuan komersial terselubung dari perusahaan teknologi?</li>\n\n\n\n\n<li><strong>Pertanyaan Utama (Question at Issue):</strong> Masalah mendasar apa di sektor pertanian Indonesia yang sebenarnya <i>paling mendesak</i> untuk diselesaikan oleh teknologi informatika saat ini?</li>\n\n\n\n\n<li><strong>Informasi (Information):</strong> Data apa yang digunakan untuk menyimpulkan bahwa petani kecil benar-benar diuntungkan? Apakah data tersebut mewakili seluruh demografi petani atau hanya mereka yang melek teknologi?</li>\n\n\n\n\n<li><strong>Konsep (Concepts):</strong> Bagaimana kita mendefinisikan \"efisiensi\" dalam konteks pertanian tradisional? Apakah efisiensi mesin selalu sejalan dengan kearifan lokal pertanian Indonesia?</li>\n\n\n\n\n<li><p></p><p><strong>Asumsi (Assumptions):</strong> Apa asumsi yang kita gunakan ketika meyakini bahwa semua petani memiliki akses dan kemampuan menggunakan <i>smartphone</i> untuk bertani?</p>\n\n\n\n</li>\n\n\n\n<li><strong>Interpretasi &amp; Kesimpulan (Interpretation):</strong> Jika data menunjukkan peningkatan penggunaan aplikasi, apakah itu serta-merta menyimpulkan bahwa kesejahteraan petani meningkat, atau hanya menunjukkan peningkatan penjualan <i>gadget</i>?</li>\n\n\n\n\n<li><strong>Implikasi (Implications):</strong> Jika peran perantara (tengkulak) digantikan oleh aplikasi, apa konsekuensi sosial dan ekonomi bagi kelompok masyarakat yang selama ini bekerja sebagai perantara tersebut?</li>\n\n\n\n\n<li><strong>Sudut Pandang (Point of View):</strong> Bagaimana pandangan petani gurem (lahan sempit) terhadap teknologi ini dibandingkan dengan pandangan perusahaan agritech besar? Apakah teknologi ini adil bagi keduanya?</li>\n\n\n\n\n<li><p></p><p><strong>Konsekuensi (Consequences):</strong> Apa dampak jangka panjang terhadap lingkungan jika efisiensi teknologi mendorong eksploitasi lahan secara berlebihan demi mengejar target data produksi?</p>\n\n\n\n</li>\n\n\n\n<li>Konteks (Context): Sejauh mana budaya \"gotong royong\" di pertanian Indonesia akan berubah atau tergerus dengan masuknya sistem digital yang cenderung individualistik?<p></p></li>\n\n\n\n</ol>\n"
+        },
+        {
+          "id": "item-ffda8eac-0561-4489-8c42-bade66d38f17",
+          "indent": 0,
+          "location": "pages/item-ffda8eac-0561-4489-8c42-bade66d38f17/index.html",
+          "slug": "tes1",
+          "order": 0,
+          "parent": null,
+          "title": "tes1",
+          "description": "",
+          "metadata": {
+            "created": 1763873505,
+            "updated": 1763873505,
+            "images": [],
+            "videos": []
+          },
+          "contents": "<p></p>"
+        }
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e",
+      "indent": 1,
+      "location": "pages/item-5abc13fb-cc8f-4c3f-ac33-e0d80c96c71e/index.html",
+      "slug": "bab-berpikir-kritis-dan-dampak-sosial-informatika/berpikir-kritis-dan-pengambilan-keputusan",
+      "order": 0,
+      "parent": "item-45efd8c7-dfb3-4367-a95e-540092fe9d35",
+      "title": "Berpikir Kritis dan Pengambilan Keputusan",
+      "description": "",
+      "metadata": {
+        "created": 1763874869,
+        "updated": 1763880600,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "lesson",
+        "hideInMenu": true,
+        "tags": "kritis",
+        "locked": false,
+        "readtime": 7,
+        "icon": "hax:lesson",
+        "theme": {
+          "element": "polaris-flex-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+          "name": "Polaris - Flex",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-theme"
+        },
+        "status": "",
+        "accentColor": "pink",
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\thinking.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/thinking.jpg",
+            "url": "files/thinking.jpg",
+            "type": "image/jpeg",
+            "name": "thinking.jpg",
+            "size": 48295
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\libur-selamanya.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/libur-selamanya.jpg",
+            "url": "files/libur-selamanya.jpg",
+            "type": "image/jpeg",
+            "name": "libur-selamanya.jpg",
+            "size": 16272
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\kriteria.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/kriteria.jpg",
+            "url": "files/kriteria.jpg",
+            "type": "image/jpeg",
+            "name": "kriteria.jpg",
+            "size": 15567
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\viral.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/viral.jpg",
+            "url": "files/viral.jpg",
+            "type": "image/jpeg",
+            "name": "viral.jpg",
+            "size": 15690
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\alternatif.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/alternatif.jpg",
+            "url": "files/alternatif.jpg",
+            "type": "image/jpeg",
+            "name": "alternatif.jpg",
+            "size": 29418
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\evaluasi.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/evaluasi.jpg",
+            "url": "files/evaluasi.jpg",
+            "type": "image/jpeg",
+            "name": "evaluasi.jpg",
+            "size": 32593
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\terbaik.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/terbaik.jpg",
+            "url": "files/terbaik.jpg",
+            "type": "image/jpeg",
+            "name": "terbaik.jpg",
+            "size": 26097
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\keputusan.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/keputusan.jpg",
+            "url": "files/keputusan.jpg",
+            "type": "image/jpeg",
+            "name": "keputusan.jpg",
+            "size": 23150
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\evaluasi-keputusan.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/evaluasi-keputusan.jpg",
+            "url": "files/evaluasi-keputusan.jpg",
+            "type": "image/jpeg",
+            "name": "evaluasi-keputusan.jpg",
+            "size": 25811
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\pengambilan-keputusan.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/pengambilan-keputusan.jpg",
+            "url": "files/pengambilan-keputusan.jpg",
+            "type": "image/jpeg",
+            "name": "pengambilan-keputusan.jpg",
+            "size": 31171
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\sekolah-pandemi.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/sekolah-pandemi.jpg",
+            "url": "files/sekolah-pandemi.jpg",
+            "type": "image/jpeg",
+            "name": "sekolah-pandemi.jpg",
+            "size": 96005
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\keputusan-digital2.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/keputusan-digital2.jpg",
+            "url": "files/keputusan-digital2.jpg",
+            "type": "image/jpeg",
+            "name": "keputusan-digital2.jpg",
+            "size": 26942
+          }
+        ],
+        "image": "files/sekolah-pandemi.jpg"
+      }
+    },
+    {
+      "id": "item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287",
+      "indent": 1,
+      "location": "pages/item-9fa7ba2b-bfe6-4cff-a20c-5027fa06b287/index.html",
+      "slug": "bab-berpikir-kritis-dan-dampak-sosial-informatika/kajian-kritis-penerapan-informatika-dalam-bidang-pertanian",
+      "order": 1,
+      "parent": "item-45efd8c7-dfb3-4367-a95e-540092fe9d35",
+      "title": "Kajian Kritis Penerapan Informatika dalam Bidang Pertanian",
+      "description": "",
+      "metadata": {
+        "created": 1763874869,
+        "updated": 1763880601,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "pageType": "content",
+        "hideInMenu": true,
+        "readtime": 2,
+        "icon": "lrn:page",
+        "tags": "kritis",
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\tani.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/tani.jpg",
+            "url": "files/tani.jpg",
+            "type": "image/jpeg",
+            "name": "tani.jpg",
+            "size": 146355
+          }
+        ],
+        "theme": {
+          "element": "polaris-flex-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+          "name": "Polaris - Flex",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-theme"
+        },
+        "image": "files/tani.jpg"
+      }
+    },
+    {
+      "id": "item-9df2478a-800b-44fd-94b2-ca8018ecc084",
+      "indent": 0,
+      "location": "pages/item-9df2478a-800b-44fd-94b2-ca8018ecc084/index.html",
+      "slug": "selamat-datang-di-media-belajar-berpikir",
+      "order": 6,
+      "parent": null,
+      "title": "Selamat Datang di Media Belajar Berpikir",
+      "description": "",
+      "metadata": {
+        "created": 1763874869,
+        "updated": 1763880601,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": true,
+        "locked": false,
+        "readtime": 1,
+        "theme": {
+          "element": "haxcms-blank-theme",
+          "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+          "name": "Blank theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "haxcms-blank-theme"
+        },
+        "accentColor": "pink",
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+            "url": "files/syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+            "type": "image/jpeg",
+            "name": "syahrul-alamsyah-wahid-2SLWp7PdsX8-unsplash.jpg",
+            "size": 1896691
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+            "url": "files/syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+            "type": "image/jpeg",
+            "name": "syahrul-alamsyah-wahid-Z1NnYaPD6Vk-unsplash.jpg",
+            "size": 1781365
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\bantalmp4.mp4",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/bantalmp4.mp4",
+            "url": "files/bantalmp4.mp4",
+            "type": "video/mp4",
+            "name": "bantalmp4.mp4",
+            "size": 1627736
+          }
+        ],
+        "status": ""
+      }
+    },
+    {
+      "id": "item-16c4b08b-6f6f-4be0-8a26-144cb340df98",
+      "indent": 0,
+      "location": "pages/item-16c4b08b-6f6f-4be0-8a26-144cb340df98/index.html",
+      "slug": "welcome-copy",
+      "order": 7,
+      "parent": null,
+      "title": "Welcome Copy",
+      "description": "",
+      "metadata": {
+        "created": 1763874869,
+        "updated": 1763880601,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "haxcms-blank-theme",
+          "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+          "name": "Blank theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "haxcms-blank-theme"
+        },
+        "published": true,
+        "hideInMenu": true,
+        "locked": false,
+        "readtime": 2,
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\coding.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/coding.jpg",
+            "url": "files/coding.jpg",
+            "type": "image/jpeg",
+            "name": "coding.jpg",
+            "size": 3448244
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\belajar.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/belajar.jpg",
+            "url": "files/belajar.jpg",
+            "type": "image/jpeg",
+            "name": "belajar.jpg",
+            "size": 1187785
+          },
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\halo-dunia.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/halo-dunia.jpg",
+            "url": "files/halo-dunia.jpg",
+            "type": "image/jpeg",
+            "name": "halo-dunia.jpg",
+            "size": 4199499
+          }
+        ],
+        "status": ""
+      }
+    },
+    {
+      "id": "item-45efd8c7-dfb3-4367-a95e-540092fe9d35",
+      "indent": 0,
+      "location": "pages/item-45efd8c7-dfb3-4367-a95e-540092fe9d35/index.html",
+      "slug": "bab-berpikir-kritis-dan-dampak-sosial-informatika",
+      "order": 4,
+      "parent": null,
+      "title": "Bab Berpikir Kritis dan Dampak Sosial Informatika",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1763874869,
+        "images": {},
+        "videos": {},
+        "updated": 1763880600,
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": true,
+        "readtime": 1,
+        "status": "",
+        "icon": "lrn:page",
+        "files": [
+          {
+            "path": "C:\\Users\\Public\\git\\andyprodistik\\eval2\\files\\brain.jpg",
+            "fullUrl": "/C:\\Users\\Public\\git\\andyprodistik\\eval2/files/brain.jpg",
+            "url": "files/brain.jpg",
+            "type": "image/jpeg",
+            "name": "brain.jpg",
+            "size": 26946
+          }
+        ],
+        "theme": {
+          "element": "polaris-flex-sidebar",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-sidebar.js",
+          "name": "Polaris - Flex Sidebar",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-sidebar"
+        },
+        "image": "files/brain.jpg",
+        "tags": "materi",
+        "accentColor": "pink"
+      }
+    },
+    {
+      "id": "item-180dedc9-60ec-4db6-8fe8-0b5f8add8481",
+      "indent": 0,
+      "location": "pages/item-180dedc9-60ec-4db6-8fe8-0b5f8add8481/index.html",
+      "slug": "selamat-datang",
+      "order": 0,
+      "parent": null,
+      "title": "Selamat Datang",
+      "description": "tes kuis eror lagi uhh\n\n\n\n\n  \n    Bagian materi 1 akan langsung terlihat saat halaman dibuka.\n  \n\n  \n    Bagian materi 2 muncul setelah tombol Pause diklik sekali.\n  \n\n  \n    Bagian materi 3 muncul s",
+      "metadata": {
+        "created": 1763874869,
+        "updated": 1763880599,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1,
+        "theme": {
+          "element": "polaris-flex-sidebar",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-sidebar.js",
+          "name": "Polaris - Flex Sidebar",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-sidebar"
+        }
+      }
+    },
+    {
+      "id": "item-6c0e4076-18c0-4d81-90d7-36c595a6297e",
+      "indent": 1,
+      "location": "pages/item-6c0e4076-18c0-4d81-90d7-36c595a6297e/index.html",
+      "slug": "selamat-datang/page",
+      "order": 0,
+      "parent": "item-180dedc9-60ec-4db6-8fe8-0b5f8add8481",
+      "title": "Page",
+      "description": "\n",
+      "metadata": {
+        "created": 1763880130,
+        "updated": 1763880600,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "theme": {
+          "element": "polaris-flex-sidebar",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-sidebar.js",
+          "name": "Polaris - Flex Sidebar",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-sidebar"
+        },
+        "status": ""
+      }
+    },
+    {
+      "id": "item-f746a353-0cbd-438d-a6f5-48f0a5eeaa63",
+      "indent": 0,
+      "location": "pages/item-f746a353-0cbd-438d-a6f5-48f0a5eeaa63/index.html",
+      "slug": "selamat-datang/page-1",
+      "order": 1,
+      "parent": "item-180dedc9-60ec-4db6-8fe8-0b5f8add8481",
+      "title": "Page",
+      "description": "\n",
+      "metadata": {
+        "created": 1763880612,
+        "updated": 1763881389,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "polaris-flex-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+          "name": "Polaris - Flex",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-theme"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-704aa4cf-ebfe-480c-81de-0803430b2ef9",
+      "indent": 0,
+      "location": "pages/item-704aa4cf-ebfe-480c-81de-0803430b2ef9/index.html",
+      "slug": "modul-ajar-kelas-xi",
+      "order": 2,
+      "parent": null,
+      "title": "Modul Ajar Kelas XI",
+      "description": "tes kuis eror lagi uhh\n\n\n\n\n  \n    Bagian materi 1 akan langsung terlihat saat halaman dibuka.\n  \n\n\n\n\n  \n    Bagian materi 2 muncul setelah tombol Pause diklik sekali.\n  \n\n\n\n\n  \n    Bagian materi 3 mu",
+      "metadata": {
+        "locked": false,
+        "created": 1763878675,
+        "images": {},
+        "videos": {},
+        "updated": 1763880600,
+        "theme": {
+          "element": "polaris-flex-sidebar",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-sidebar.js",
+          "name": "Polaris - Flex Sidebar",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-sidebar"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1,
+        "status": "",
+        "pageType": "assessment",
+        "icon": "lrn:assessment"
+      }
+    },
+    {
+      "id": "item-ab3e7963-d557-4dbe-b494-386a1ad527ba",
+      "indent": 1,
+      "location": "pages/item-ab3e7963-d557-4dbe-b494-386a1ad527ba/index.html",
+      "slug": "modul-ajar-kelas-xi/page",
+      "order": 0,
+      "parent": "item-704aa4cf-ebfe-480c-81de-0803430b2ef9",
+      "title": "Page",
+      "description": "\nDeep thoughts..\nDeep thoughts..\nDeep thoughts..\nDeep thoughts..\n\n",
+      "metadata": {
+        "created": 1763878824,
+        "updated": 1763880600,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "theme": {
+          "element": "polaris-flex-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+          "name": "Polaris - Flex",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-theme"
+        },
+        "hideInMenu": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-e0cb20de-81b1-4379-8e0e-33f51466cbc0",
+      "indent": 0,
+      "location": "pages/item-e0cb20de-81b1-4379-8e0e-33f51466cbc0/index.html",
+      "slug": "page-copy",
+      "order": 4,
+      "parent": null,
+      "title": "Page Copy",
+      "description": "\n",
+      "metadata": {
+        "created": 1763878716,
+        "updated": 1763881504,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "theme": {
+          "element": "polaris-flex-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+          "name": "Polaris - Flex",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-flex-theme"
+        },
+        "hideInMenu": false,
+        "icon": "av:fiber-manual-record",
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-c364caed-b331-44da-b9bd-4270490629a9",
+      "indent": 0,
+      "location": "pages/item-c364caed-b331-44da-b9bd-4270490629a9/index.html",
+      "slug": "page",
+      "order": 3,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1763880020,
+        "updated": 1763880600,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    }
+  ]
+}
